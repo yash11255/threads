@@ -1,0 +1,4924 @@
+{
+ "about-us": {
+  "title": "About Us",
+  "seoTitle": "About Us - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h2",
+    "x": "About Us"
+   },
+   {
+    "t": "h2",
+    "x": "Adjust Your Body Get A Perfect Balance"
+   },
+   {
+    "t": "p",
+    "x": "Your Premier Destination for Orthopaedic and Sports Rehabilitation. Experience cutting-edge treatments and personalized care from our expert team, specializing in advanced techniques to restore mobility, strength, and function."
+   },
+   {
+    "t": "p",
+    "x": "Whether recovering from injury or enhancing performance, trust Threads Physio for comprehensive, tailored solutions to optimize your musculoskeletal health and well-being."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/about-image-one.webp",
+    "alt": "physiotherapy at Threads Physio"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/about-image-two.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/yellow-Ellipse.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/about-image-three.webp",
+    "alt": "physiotherapy session"
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   },
+   {
+    "t": "h2",
+    "x": "Feel The Body Adjustment From Head to the Toe"
+   },
+   {
+    "t": "h2",
+    "x": "Surgeries"
+   },
+   {
+    "t": "h2",
+    "x": "Cities"
+   },
+   {
+    "t": "h2",
+    "x": "Awards"
+   },
+   {
+    "t": "h2",
+    "x": "Happy Patients"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "about-us/meet-our-specialist": {
+  "title": "Meet Our Specialist",
+  "seoTitle": "Meet Our Specialist - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Meet Our Specialist"
+   },
+   {
+    "t": "h2",
+    "x": "Our Doctors"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/dr-manu2.webp",
+    "alt": "best acl surgeon in gurgaon"
+   },
+   {
+    "t": "h3",
+    "x": "Dr. Manu Bora"
+   },
+   {
+    "t": "p",
+    "x": "Associate Consultant – Arthroscopy & Sports Medicine MBBS, M.S (Orthopaedics) FNB(Sports Medicine and Arthroscopy)"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/dr-akhil-1.webp",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "x": "Dr. Akhil Agnihotri"
+   },
+   {
+    "t": "p",
+    "x": "Associate Consultant – Arthroscopy & Sports Medicine MBBS, M.S (Orthopaedics) FNB(Sports Medicine and Arthroscopy)"
+   },
+   {
+    "t": "h2",
+    "x": "Expert Therapist"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2025/11/WhatsApp-Image-2025-11-13-at-11.28.57-scaled.jpeg",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "x": "Dr. Astha Singh Senior physiotherapist"
+   },
+   {
+    "t": "p",
+    "x": "Musculockeletal & sports physiotherapist ACL Rehabilitation expert LSCCP ( London shoulder clinic certified practitioner) Sports injury rehabilitation expert Advanced orthopedic rehabilitation specialist"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2025/11/WhatsApp-Image-2025-11-13-at-11.28.48.jpeg",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "x": "Dr saif (PT)"
+   },
+   {
+    "t": "p",
+    "x": "MPT sports and rehabilitation"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2025/11/WhatsApp-Image-2025-11-13-at-11.33.43.jpeg",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "x": "Dr Riya Jain (PT)"
+   },
+   {
+    "t": "p",
+    "x": "BPT - Acl rehab expert and sports injury specialist - Dry needling - Certified International courses on Anatomy, Physiology, etc"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2025/11/WhatsApp-Image-2025-11-13-at-11.24.38-scaled.jpeg",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "x": "Dr. Haider Ali (physiotherapist)"
+   },
+   {
+    "t": "p",
+    "x": "Musculoskeletal and sports physiotherapist Expert in ACL rehabilitation Expert in knee,shoulder and spine pain management"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2025/11/WhatsApp-Image-2025-11-13-at-11.20.40.jpeg",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "x": "Dr Siddhi kumari (PT)"
+   },
+   {
+    "t": "p",
+    "x": "BPT- Physiotherapist. ACL rehab expert and sports injury specialist. Certified Manual Therapist Certified in PNF technique"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2026/01/WhatsApp-Image-2026-01-16-at-12.49.59-scaled.jpeg",
+    "alt": "Dr. Jaideep"
+   },
+   {
+    "t": "h3",
+    "x": "Dr Jaideep Sangwan(PT)"
+   },
+   {
+    "t": "p",
+    "x": "BPT, DNHEOL ACL Rehab Expert. Dry Needling Cupping IASTM PNF"
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "about-us/sports-physiotherapist-internship-program": {
+  "title": "Sports Physiotherapist Internship Program",
+  "seoTitle": "Sports Physiotherapist Internship Program - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Sports Physiotherapist Internship Program"
+   },
+   {
+    "t": "p",
+    "x": "A super speciality sports physiotherapy centre designed for treating injuries and conditions occurs during sports. Whether an athlete is amateur or professional Threads Physio looks every patient with outmost care and design the best treatment plan for them to recover faster."
+   },
+   {
+    "t": "p",
+    "x": "To all the young physiotherapist out there, Threads Physio is providing you an exciting opportunity to upskill yourself by joining our highly demanding sports injury internship program at our centre. You will be getting a deep knowledge of various types of rehabilitation program of knee, shoulder and ankle cases. You will get an exciting opportunity to treat national and international athletes from various sports."
+   },
+   {
+    "t": "p",
+    "x": "This program will not only teach you how to treat injuries but also upskill yourself to become a top tier sports physiotherapist. You will be emersed in a dynamic environment where you will refine assessment abilities, develop personalized treatment plans and master the art of performance enhancement."
+   },
+   {
+    "t": "p",
+    "x": "Don’t miss this opportunity. Join us at Threads Physio to take your career to new heights."
+   },
+   {
+    "t": "p",
+    "x": "What will you learn?"
+   },
+   {
+    "t": "li",
+    "x": "How to treat ACL injuries"
+   },
+   {
+    "t": "li",
+    "x": "How to treat Shoulder Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Back to Sports program"
+   },
+   {
+    "t": "li",
+    "x": "Back to Performance Program"
+   },
+   {
+    "t": "li",
+    "x": "Pre- Operative and Post Operative rehabilitation program"
+   },
+   {
+    "t": "p",
+    "x": "Eligibility Criteria: Final year students pursuing BPT ( Bachelor of Physiotherapy )"
+   },
+   {
+    "t": "p",
+    "x": "Duration: 1 month (extendable to 3 months)"
+   },
+   {
+    "t": "p",
+    "x": "Perks of joining the internship program:"
+   },
+   {
+    "t": "li",
+    "x": "Hands on experience in treating injuries"
+   },
+   {
+    "t": "li",
+    "x": "Assistance from experts in sports medicine"
+   },
+   {
+    "t": "li",
+    "x": "Certificate upon completion"
+   },
+   {
+    "t": "p",
+    "x": "How to apply?"
+   },
+   {
+    "t": "li",
+    "x": "Send your CV at threadsphysio@gmail.com"
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "acupuncture-treatment-in-gurgaon": {
+  "title": "Acupuncture Treatment in Gurgaon - Best Clinic for Acupuncture",
+  "seoTitle": "Acupuncture Treatment in Gurgaon - Best Clinic for Acupuncture",
+  "description": "Get safe and effective acupuncture treatment in Gurgaon at Threads Physio. Expert care for pain relief, wellness & recovery. Book your session today.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Acupuncture Treatment in Gurgaon – Expert Holistic Healing at Threads Physio"
+   },
+   {
+    "t": "p",
+    "x": "Looking for trusted acupuncture treatment in Gurgaon? At Threads Physio by Dr. Manu Bora, we offer holistic and personalized acupuncture therapy to help manage pain, reduce stress, and support natural healing. Whether you’re dealing with chronic back pain, migraines, muscle stiffness, or anxiety-related symptoms, our expert physiotherapists use evidence-based acupuncture techniques to restore balance and promote overall wellness."
+   },
+   {
+    "t": "h3",
+    "x": "2000+ Patients Treated"
+   },
+   {
+    "t": "h3",
+    "x": "3000 Sq Ft Dedicated Rehabilitation Area"
+   },
+   {
+    "t": "h3",
+    "x": "Internationally Trained Physiotherapist"
+   },
+   {
+    "t": "h2",
+    "x": "Common Conditions We Treat with Acupuncture"
+   },
+   {
+    "t": "li",
+    "x": "Back & neck pain"
+   },
+   {
+    "t": "li",
+    "x": "Shoulder stiffness"
+   },
+   {
+    "t": "li",
+    "x": "Sciatica & nerve pain"
+   },
+   {
+    "t": "li",
+    "x": "Chronic headaches or migraines"
+   },
+   {
+    "t": "li",
+    "x": "Insomnia"
+   },
+   {
+    "t": "li",
+    "x": "Sports injuries"
+   },
+   {
+    "t": "li",
+    "x": "Arthritis-related pain"
+   },
+   {
+    "t": "li",
+    "x": "Menstrual pain & hormonal imbalance"
+   },
+   {
+    "t": "li",
+    "x": "Anxiety & stress"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/home-image-one.webp",
+    "alt": "ACL treatment"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/home-image-two.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/yellow-Ellipse.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "What is Acupuncture Therapy?"
+   },
+   {
+    "t": "p",
+    "x": "Acupuncture is a traditional healing technique that has been used for thousands of years to treat various health conditions. It involves inserting very thin, sterile needles into specific points on the body known as “acupoints.” These points lie along energy pathways called meridians, which are believed to regulate the flow of vital energy, or “Qi” (pronounced “chee”), throughout the body. When Qi becomes blocked or unbalanced, it can lead to pain, stress, or illness. Acupuncture aims to restore this balance and support the body’s natural healing process. Today, acupuncture is widely accepted in modern physiotherapy as an effective, drug-free method to relieve pain, reduce inflammation, and promote recovery."
+   },
+   {
+    "t": "h2",
+    "x": "Benefits of Acupuncture Therapy"
+   },
+   {
+    "t": "h3",
+    "x": "Pain Relief"
+   },
+   {
+    "t": "p",
+    "x": "Acupuncture is known to reduce pain from conditions like back pain, neck pain, sciatica, arthritis, and migraines by triggering your body’s natural painkillers."
+   },
+   {
+    "t": "h3",
+    "x": "Reduces Stress & Anxiety"
+   },
+   {
+    "t": "p",
+    "x": "The therapy promotes relaxation and lowers stress hormones like cortisol, making it helpful for people dealing with anxiety, burnout, or sleep issues."
+   },
+   {
+    "t": "h3",
+    "x": "Speeds Up Injury Recovery"
+   },
+   {
+    "t": "p",
+    "x": "By improving blood flow and reducing inflammation, acupuncture can support faster recovery from sports injuries, muscle strains, and joint stiffness."
+   },
+   {
+    "t": "h3",
+    "x": "Improves Sleep Quality"
+   },
+   {
+    "t": "p",
+    "x": "Regular sessions help calm the nervous system, improve mood, and support deeper, more restful sleep—naturally."
+   },
+   {
+    "t": "h3",
+    "x": "Balances Hormones & Energy Flow"
+   },
+   {
+    "t": "p",
+    "x": "Acupuncture restores the body’s energy balance (Qi) and helps regulate hormones, making it useful for PMS, menopause, and fatigue."
+   },
+   {
+    "t": "h3",
+    "x": "Drug-Free Alternative"
+   },
+   {
+    "t": "p",
+    "x": "Ideal for patients looking to manage pain or health conditions without long-term use of medication or invasive procedures."
+   },
+   {
+    "t": "h3",
+    "x": "Complements Other Treatments"
+   },
+   {
+    "t": "p",
+    "x": "Acupuncture works well alongside physiotherapy, manual therapy, and rehabilitation for a holistic treatment approach."
+   },
+   {
+    "t": "h2",
+    "x": "Why Choose Threads Physio for Acupuncture?"
+   },
+   {
+    "t": "p",
+    "x": "At Threads Physio by Dr. Manu Bora, we bring together the ancient science of acupuncture with modern physiotherapy to offer safe, effective, and personalized care in Gurgaon. Here’s what makes us the trusted choice for acupuncture treatment:"
+   },
+   {
+    "t": "li",
+    "x": "Expert-Led Care – Our acupuncture sessions are conducted by trained professionals who understand both traditional techniques and modern anatomy. Each treatment is tailored to your condition and comfort."
+   },
+   {
+    "t": "li",
+    "x": "Integrated Healing Approach – Unlike standalone acupuncture clinics, we offer combined care with physiotherapy, manual therapy, and pain management to deliver complete recovery solutions."
+   },
+   {
+    "t": "li",
+    "x": "Patient-Centered Treatment Plans – We don't believe in one-size-fits-all care. Every patient undergoes a detailed assessment, and treatment is designed based on individual goals—whether it’s pain relief, stress reduction, or injury recovery."
+   },
+   {
+    "t": "li",
+    "x": "Trusted by Athletes & Families – From sports professionals to working individuals and seniors, we’ve helped hundreds of patients in Gurgaon experience real results through our acupuncture therapy."
+   },
+   {
+    "t": "li",
+    "x": "Convenient Location in Gurgaon – From sports professionals to working individuals and seniors, we’ve helped hundreds of patients in Gurgaon experience real results through our acupuncture therapy."
+   },
+   {
+    "t": "p",
+    "x": "Patient Feedback"
+   }
+  ],
+  "faqTitle": "FAQs About Acupuncture Therapy",
+  "faqs": []
+ },
+ "arthritis-treatment-in-gurgaon": {
+  "title": "Arthritis Treatment in Gurgaon | Expert Physiotherapy Care",
+  "seoTitle": "Arthritis Treatment in Gurgaon | Expert Physiotherapy Care",
+  "description": "Get effective relief from joint pain and stiffness with personalized arthritis treatment in Gurgaon. Book expert physiotherapy care at Threads Physio today.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Arthritis Treatment in Gurgaon with Personalized Physiotherapy Care"
+   },
+   {
+    "t": "p",
+    "x": "Living with arthritis can make even simple tasks like walking, climbing stairs, or holding a cup feel painful and frustrating. Whether you’re struggling with knee arthritis, shoulder stiffness, or joint pain due to age or injury, timely physiotherapy can help you move better and feel better – without relying on long-term medication."
+   },
+   {
+    "t": "p",
+    "x": "At Threads Physio in Gurgaon, we specialize in personalized arthritis treatment that focuses on reducing pain, improving mobility, and strengthening the joints. Our experienced physiotherapists combine clinical expertise with advanced techniques to help you regain control of your life and stay active, safely."
+   },
+   {
+    "t": "h2",
+    "x": "Arthritis Treatment in Gurgaon with Personalized Physiotherapy Care"
+   },
+   {
+    "t": "p",
+    "x": "Arthritis is a common condition that causes pain, stiffness, and swelling in one or more joints. It can affect people of all ages but is more common in older adults. Over time, arthritis can limit movement, reduce flexibility, and make everyday activities challenging."
+   },
+   {
+    "t": "p",
+    "x": "There are more than 100 types of arthritis, but the two most common forms are:"
+   },
+   {
+    "t": "h3",
+    "x": "Osteoarthritis (OA)"
+   },
+   {
+    "t": "p",
+    "x": "This is the most common type, often caused by wear and tear of the joints over time. It usually affects the knees, hips, and hands, leading to cartilage breakdown, pain, and reduced mobility."
+   },
+   {
+    "t": "h3",
+    "x": "Rheumatoid Arthritis (RA)"
+   },
+   {
+    "t": "p",
+    "x": "This is an autoimmune condition where the body’s immune system attacks the joints, causing inflammation, pain, and joint damage. It can affect multiple joints at once and may also lead to fatigue and weakness."
+   },
+   {
+    "t": "p",
+    "x": "At Threads Physio in Gurgaon, we provide targeted physiotherapy for both osteoarthritis and rheumatoid arthritis to help you manage symptoms and maintain an active, independent life."
+   },
+   {
+    "t": "h3",
+    "x": "2000+ Patients Treated"
+   },
+   {
+    "t": "h3",
+    "x": "3000 Sq Ft Dedicated Rehabilitation Area"
+   },
+   {
+    "t": "h3",
+    "x": "Internationally Trained Physiotherapist"
+   },
+   {
+    "t": "h2",
+    "x": "Symptoms We Help With"
+   },
+   {
+    "t": "h3",
+    "x": "Joint Pain"
+   },
+   {
+    "t": "p",
+    "x": "Persistent pain in the knees, hips, shoulders, or hands is a hallmark of arthritis. We use manual therapy and exercises to relieve pain and improve joint function."
+   },
+   {
+    "t": "h3",
+    "x": "Morning Stiffness"
+   },
+   {
+    "t": "p",
+    "x": "If your joints feel stiff or “locked” in the morning, physiotherapy can help loosen them up and improve mobility throughout the day."
+   },
+   {
+    "t": "h3",
+    "x": "Swelling & Inflammation"
+   },
+   {
+    "t": "p",
+    "x": "Arthritis often causes swollen or warm joints. Our treatment helps reduce inflammation through gentle movement, modalities, and circulation-boosting techniques."
+   },
+   {
+    "t": "h3",
+    "x": "Reduced Range of Motion"
+   },
+   {
+    "t": "p",
+    "x": "Difficulty bending, rotating, or fully moving a joint can limit your independence. We help restore flexibility and movement through guided physiotherapy."
+   },
+   {
+    "t": "h3",
+    "x": "Joint Instability or Weakness"
+   },
+   {
+    "t": "p",
+    "x": "Arthritis can weaken surrounding muscles and ligaments. We focus on strengthening exercises to stabilize the joints and prevent further damage."
+   },
+   {
+    "t": "h3",
+    "x": "Cracking or Grinding Sensation"
+   },
+   {
+    "t": "p",
+    "x": "Known as crepitus, this can occur in osteoarthritic joints. While not always painful, we help manage it by reducing joint stress and improving alignment."
+   },
+   {
+    "t": "h3",
+    "x": "Fatigue & Discomfort"
+   },
+   {
+    "t": "p",
+    "x": "Chronic joint pain often leads to fatigue. Our holistic approach addresses both physical and lifestyle factors to help you feel more energized and in control."
+   },
+   {
+    "t": "h2",
+    "x": "How physiotherapy treatment helps arthritis?"
+   },
+   {
+    "t": "h3",
+    "x": "Detailed Assessment"
+   },
+   {
+    "t": "p",
+    "x": "We begin with a thorough evaluation of your joint function, pain level, mobility limitations, and medical history to identify the root causes of discomfort."
+   },
+   {
+    "t": "h3",
+    "x": "Joint Mobilization & Manual Therapy"
+   },
+   {
+    "t": "p",
+    "x": "Gentle hands-on techniques are used to reduce stiffness, improve joint movement, and relieve pressure around affected areas."
+   },
+   {
+    "t": "h3",
+    "x": "Strengthening & Flexibility Exercises"
+   },
+   {
+    "t": "p",
+    "x": "Targeted exercises help build supporting muscle strength and improve joint stability, reducing the strain on painful joints."
+   },
+   {
+    "t": "h3",
+    "x": "Posture & Movement Correction"
+   },
+   {
+    "t": "p",
+    "x": "We guide you on proper body mechanics and joint protection strategies to reduce daily wear and tear, especially in weight-bearing joints like knees and hips."
+   },
+   {
+    "t": "h3",
+    "x": "Advanced Modalities"
+   },
+   {
+    "t": "p",
+    "x": "Depending on your needs, we may use electrotherapy, ultrasound, or heat therapy to reduce inflammation and promote healing."
+   },
+   {
+    "t": "h3",
+    "x": "Customized Home Exercise Plan"
+   },
+   {
+    "t": "p",
+    "x": "We empower you with easy-to-follow exercises and lifestyle tips so you can manage arthritis symptoms confidently at home."
+   },
+   {
+    "t": "h2",
+    "x": "Why Choose Threads Physio for Arthritis Treatment?"
+   },
+   {
+    "t": "li",
+    "x": "Experienced therapists – Our team is led by highly skilled physiotherapists who have years of experience treating osteoarthritis, rheumatoid arthritis, and age-related joint issues."
+   },
+   {
+    "t": "li",
+    "x": "Personalized care plans – No two patients are alike. We create treatment plans tailored to your condition, lifestyle, and recovery goals—ensuring results you can feel."
+   },
+   {
+    "t": "li",
+    "x": "Advanced techniques – We use evidence-based treatments such as dry needling, electrotherapy, ultrasound therapy, manual joint mobilization, and more to deliver effective, drug-free pain relief."
+   },
+   {
+    "t": "li",
+    "x": "Trusted by elderly patients and families in Gurgaon – We’ve helped hundreds of seniors regain mobility, reduce joint pain, and return to a more active, independent life—safely and confidently."
+   },
+   {
+    "t": "li",
+    "x": "Comfortable and accessible clinic – Located in the heart of Gurgaon, our clinic offers a clean, friendly environment with easy access and attentive care from the moment you walk in."
+   },
+   {
+    "t": "p",
+    "x": "Patient Feedback"
+   }
+  ],
+  "faqTitle": "FAQs About Arthritis Treatment",
+  "faqs": []
+ },
+ "back-pain-treatment-gurgaon": {
+  "title": "Back Pain Treatment in Gurgaon with Expert Physiotherapy",
+  "seoTitle": "Back Pain Treatment in Gurgaon with Expert Physiotherapy",
+  "description": "Looking for back pain treatment in Gurgaon? Threads Physio offers expert physiotherapy for long-lasting relief and recovery.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Expert Physiotherapy for Back Pain Relief in Gurgaon"
+   },
+   {
+    "t": "p",
+    "x": "Back pain can interrupt your daily life, making even simple tasks feel difficult. At Threads Physio, we specialize in effective lower back and upper back treatment through expert physiotherapy. Whether you’re struggling with chronic lower back pain, upper back stiffness from poor posture, sciatica, or a slipped disc, our experienced physiotherapists are here to help. We combine evidence-based techniques with personalized care plans to relieve pain, restore mobility, and prevent future issues so you can get back to doing what you love, pain-free."
+   },
+   {
+    "t": "h3",
+    "x": "2000+ Patients Treated"
+   },
+   {
+    "t": "h3",
+    "x": "3000 Sq Ft Dedicated Rehabilitation Area"
+   },
+   {
+    "t": "h3",
+    "x": "Internationally Trained Physiotherapist"
+   },
+   {
+    "t": "h2",
+    "x": "Common Causes of Back Pain We Treat"
+   },
+   {
+    "t": "li",
+    "x": "Muscle strain – Common in both lower back (lifting) and upper back (hunching over a desk)"
+   },
+   {
+    "t": "li",
+    "x": "Herniated disc"
+   },
+   {
+    "t": "li",
+    "x": "Sciatica"
+   },
+   {
+    "t": "li",
+    "x": "Sedentary lifestyle"
+   },
+   {
+    "t": "li",
+    "x": "Upper back strain – Often from poor ergonomics, desk work, or carrying heavy bags"
+   },
+   {
+    "t": "li",
+    "x": "Poor posture (which can cause both lower and upper back discomfort)"
+   },
+   {
+    "t": "li",
+    "x": "Sports injuries"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/home-image-one.webp",
+    "alt": "ACL treatment"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/home-image-two.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/yellow-Ellipse.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "Symptoms We Help Manage"
+   },
+   {
+    "t": "h3",
+    "x": "Persistent lower back ache"
+   },
+   {
+    "t": "p",
+    "x": "Persistent lower back ache can make everyday tasks uncomfortable and tiring. Our physiotherapy helps reduce this pain by targeting its root cause and improving mobility."
+   },
+   {
+    "t": "h3",
+    "x": "Pain that radiates to the leg (sciatica)"
+   },
+   {
+    "t": "p",
+    "x": "Pain that radiates to the leg (sciatica) often signals nerve compression in the lower spine. Our physiotherapy techniques aim to relieve pressure on the sciatic nerve and ease discomfort."
+   },
+   {
+    "t": "h3",
+    "x": "Stiffness in the back"
+   },
+   {
+    "t": "p",
+    "x": "Stiffness in the back can limit your movement and affect posture. We use targeted stretching, manual therapy, and exercises to restore flexibility and ease stiffness."
+   },
+   {
+    "t": "h3",
+    "x": "Difficulty standing or sitting for long"
+   },
+   {
+    "t": "p",
+    "x": "Difficulty standing or sitting for long periods is often linked to muscle imbalances or spinal issues. Our physiotherapy treatment helps strengthen your core and improve posture to reduce discomfort."
+   },
+   {
+    "t": "h3",
+    "x": "Limited flexibility or mobility"
+   },
+   {
+    "t": "p",
+    "x": "Limited flexibility or mobility can affect your daily routine and overall quality of life. Our personalized physiotherapy plans focus on restoring range of motion and functional strength."
+   },
+   {
+    "t": "h2",
+    "x": "Benefits of Physiotherapy for Back Pain"
+   },
+   {
+    "t": "h3",
+    "x": "Long-term pain relief"
+   },
+   {
+    "t": "p",
+    "x": "Long-term pain relief is one of the key benefits of physiotherapy. By addressing the root cause of back pain rather than just symptoms, our treatments offer lasting relief and reduce the chances of recurrence."
+   },
+   {
+    "t": "h3",
+    "x": "Improved posture"
+   },
+   {
+    "t": "p",
+    "x": "Postural correction plays a vital role in preventing and managing back pain. Our physiotherapists help correct postural imbalances through exercises and guidance, reducing strain on your spine and muscles."
+   },
+   {
+    "t": "h3",
+    "x": "Mobility improvement"
+   },
+   {
+    "t": "p",
+    "x": "Increased mobility helps you move freely without discomfort. Our physiotherapy sessions focus on loosening tight muscles, improving joint function, reducing joint pain and restoring your natural range of motion."
+   },
+   {
+    "t": "h3",
+    "x": "Reduced risk of re-injury"
+   },
+   {
+    "t": "p",
+    "x": "Reduced risk of re-injury is a major advantage of physiotherapy. By strengthening muscles and improving body mechanics, we help protect your back from future injuries and chronic pain."
+   },
+   {
+    "t": "h3",
+    "x": "Drug-free solutions, non-surgical treatments"
+   },
+   {
+    "t": "p",
+    "x": "Drug-free, non-surgical treatment offers a safe way to manage back pain without side effects. Our physiotherapy focuses on natural healing methods to relieve pain and improve function without medication or surgery."
+   },
+   {
+    "t": "h2",
+    "x": "Our Treatment Approach"
+   },
+   {
+    "t": "h3",
+    "x": "1. Initial assessment"
+   },
+   {
+    "t": "p",
+    "x": "Initial assessment is the first step in your back pain treatment journey. Our expert physiotherapists carefully evaluate your medical history, pain patterns, and movement to create a personalized treatment plan tailored to your needs."
+   },
+   {
+    "t": "h3",
+    "x": "2. Manual therapy"
+   },
+   {
+    "t": "p",
+    "x": "Manual therapy involves hands-on techniques like massage and joint mobilization to reduce pain and improve spine mobility. This helps relax muscles, increase blood flow, and speed up your recovery."
+   },
+   {
+    "t": "h3",
+    "x": "3. Strengthening exercises"
+   },
+   {
+    "t": "p",
+    "x": "Strengthening exercises target key muscles that support your back and improve stability. These tailored workouts help reduce strain, enhance posture, and prevent future pain or injuries."
+   },
+   {
+    "t": "h3",
+    "x": "4. Posture correction"
+   },
+   {
+    "t": "p",
+    "x": "Posture correction focuses on identifying and fixing habits that strain your back. Through guided exercises and ergonomic advice, we help you maintain a healthy posture that supports long-term spine health."
+   },
+   {
+    "t": "h3",
+    "x": "5. Electrotherapy / ultrasound (if applicable)"
+   },
+   {
+    "t": "p",
+    "x": "Electrotherapy and ultrasound treatments use advanced technology to reduce inflammation and stimulate tissue healing. These painless therapies help speed up recovery and provide effective relief from back pain."
+   },
+   {
+    "t": "h2",
+    "x": "Why Choose Threads Physio for Back Pain Treatment?"
+   },
+   {
+    "t": "p",
+    "x": "Looking for back pain physiotherapy Gurgaon? Threads Physio is here to help. Here’s why we are the best choice:"
+   },
+   {
+    "t": "li",
+    "x": "Personalized treatment plans – Personalized treatment plans ensure that your back pain care is tailored specifically to your condition and lifestyle. We design each plan after a thorough assessment, focusing on your unique needs for faster, more effective recovery."
+   },
+   {
+    "t": "li",
+    "x": "Expert physiotherapists led by Dr. Manu Bora – Expert physiotherapists led by Dr. Manu Bora bring years of experience and specialized knowledge in treating back pain. Our skilled team uses the latest techniques to provide you with the highest quality care and lasting results."
+   },
+   {
+    "t": "li",
+    "x": "Advanced therapies – Advanced therapies like manual therapy and dry needling are part of our comprehensive approach to back pain. These proven techniques target pain at its source, promote healing, and speed up your recovery process."
+   },
+   {
+    "t": "li",
+    "x": "Proven results and patient satisfaction – Proven results and patient satisfaction reflect our commitment to effective back pain treatment. Many patients have regained pain-free movement and improved quality of life through our personalized care and expert therapies."
+   },
+   {
+    "t": "p",
+    "x": "Patient Feedback"
+   }
+  ],
+  "faqTitle": "FAQs About Back Pain Treatment",
+  "faqs": []
+ },
+ "blogs": {
+  "title": "Blogs",
+  "seoTitle": "Blogs - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h2",
+    "x": "Blogs"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2026/09/unnamed-6-768x384.png",
+    "alt": "unnamed (6)"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2026/09/unnamed-5-768x768.png",
+    "alt": "unnamed (5)"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2026/09/unnamed-3-1-768x768.png",
+    "alt": "unnamed (3)"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2026/09/unnamed.jpg",
+    "alt": "unnamed"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2026/09/unnamed-3-768x511.png",
+    "alt": "unnamed (3)"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2026/09/unnamed-1-768x512.png",
+    "alt": "unnamed (1)"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2026/09/blog.png",
+    "alt": "blog"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2026/02/Why-Do-I-Have-Left-Hand-Shoulder-Pain-A-Simple-Guide-768x432.png",
+    "alt": "Why Do I Have Left Hand Shoulder Pain"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2026/02/Why-Do-I-Have-Shoulder-Pain-While-Sleeping-And-How-to-Fix-It-768x432.png",
+    "alt": "Why Do I Have Shoulder Pain While Sleeping? (And How to Fix It"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2026/02/Physio-for-Neck-and-Shoulder-Pain-768x429.png",
+    "alt": "Physio for Neck and Shoulder Pain"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "conditions": {
+  "title": "Conditions",
+  "seoTitle": "Conditions - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Conditions"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/BACKBONE-2x.png",
+    "alt": "ACL Rehabilitation"
+   },
+   {
+    "t": "h2",
+    "x": "ACL Rehabilitation"
+   },
+   {
+    "t": "p",
+    "x": "Our focus are on preventing, treating and managing acl injury and post operative acl rehabilitation."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/MUSCLE-2x.png",
+    "alt": "Sports Injury Rehabilitation"
+   },
+   {
+    "t": "h2",
+    "x": "Sports Injury Rehabilitation"
+   },
+   {
+    "t": "p",
+    "x": "We are dealing with Sports injury rehab which is the process of restoring function and strength..."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/LEG-SLING-2x.png",
+    "alt": "Chronic Pain in Elderly"
+   },
+   {
+    "t": "h2",
+    "x": "Chronic Pain in Elderly"
+   },
+   {
+    "t": "p",
+    "x": "Chronic pain in the elderly refers to persistent discomfort or soreness that lasts for an extended period..."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/ACUPUNTURE-2x.png",
+    "alt": "Post Operative Rehabilitation"
+   },
+   {
+    "t": "h2",
+    "x": "Post Operative Rehabilitation"
+   },
+   {
+    "t": "p",
+    "x": "Post-operative rehabilitation typically involves a structured program designed to help patients recover after surgery."
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "conditions/acl-rehabilitation": {
+  "title": "ACL Rehabilitation",
+  "seoTitle": "ACL Rehabilitation - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "ACL Rehabilitation"
+   },
+   {
+    "t": "h2",
+    "x": "Our Centre Orthosport x Threads Physio is an expert in Acl."
+   },
+   {
+    "t": "p",
+    "x": "Our focus are on preventing, treating and managing acl injury and post operative acl rehabilitation."
+   },
+   {
+    "t": "p",
+    "x": "ACL rehabilitation program involves the process following rehabilitation after acl surgery or injury."
+   },
+   {
+    "t": "p",
+    "x": "Acl rehab typically involves a structured program of exercises , strengthening and returning to normal activities after surgery or injury."
+   },
+   {
+    "t": "p",
+    "x": "The goal of the acl rehabilitation is to restore the function, and return to their normal action, including sports, safely and effectively."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/other-one.webp",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "x": "Our Expertise"
+   },
+   {
+    "t": "p",
+    "x": "Acl rehabilitation in non-operative conditions and post operative Acl conditions."
+   },
+   {
+    "t": "h3",
+    "x": "Our Mission"
+   },
+   {
+    "t": "p",
+    "x": "We focused to restore ROM (Range of Motion), stability , strength and function of the knee."
+   },
+   {
+    "t": "h3",
+    "x": "Our Goal"
+   },
+   {
+    "t": "p",
+    "x": "The goal after Acl injury or surgery is to return the patient to a normal complete level of function, their required physical activities and specific sports."
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "conditions/chronic-pain-in-elderly": {
+  "title": "Chronic Pain in Elderly",
+  "seoTitle": "Chronic Pain in Elderly - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Chronic Pain in Elderly"
+   },
+   {
+    "t": "p",
+    "x": "Chronic pain in the elderly refers to persistent discomfort or soreness that lasts for an extended period, typically lasting more than three to six months. It can result from various conditions such as arthritis, neuropathy, or other age-related degenerative changes in the body. Managing chronic pain in older adults often requires a multifaceted approach involving medication, physical therapy, lifestyle changes, and sometimes psychological support."
+   },
+   {
+    "t": "li",
+    "x": "Osteoarthritis"
+   },
+   {
+    "t": "li",
+    "x": "Knee replacement post op rehabilitation"
+   },
+   {
+    "t": "li",
+    "x": "Tendonitis"
+   },
+   {
+    "t": "li",
+    "x": "Bursitis"
+   },
+   {
+    "t": "li",
+    "x": "Rotator cuff injuries, meniscal tears,"
+   },
+   {
+    "t": "li",
+    "x": "Fractures resulting from falls"
+   },
+   {
+    "t": "li",
+    "x": "Rheumatoid arthritis (RA)"
+   },
+   {
+    "t": "li",
+    "x": "Back pain"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/other-three.webp",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "conditions/post-operative-rehabilitation": {
+  "title": "Post Operative Rehabilitation Clinic in Gurgaon",
+  "seoTitle": "Post Operative Rehabilitation Clinic in Gurgaon - Threads Physio",
+  "description": "Recover faster with expert post-surgical rehabilitation in Gurgaon. Personalized physiotherapy plans for ACL, joint replacement, spine surgery & more.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Post Operative Rehabilitation"
+   },
+   {
+    "t": "h2",
+    "x": "Common Conditions We Treat After Surgery"
+   },
+   {
+    "t": "li",
+    "x": "ACL Reconstruction Rehabilitation"
+   },
+   {
+    "t": "li",
+    "x": "Total Knee Replacement (TKR)"
+   },
+   {
+    "t": "li",
+    "x": "Total Hip Replacement (THR)"
+   },
+   {
+    "t": "li",
+    "x": "Rotator Cuff Repair & Shoulder Surgery"
+   },
+   {
+    "t": "li",
+    "x": "Ligament or Tendon Repair Surgeries"
+   },
+   {
+    "t": "li",
+    "x": "Joint Arthroplasty Procedures"
+   },
+   {
+    "t": "li",
+    "x": "Spinal Surgery (Discectomy, Laminectomy, Fusion)"
+   },
+   {
+    "t": "li",
+    "x": "Fracture Fixation Surgeries"
+   },
+   {
+    "t": "li",
+    "x": "Meniscus Repair"
+   },
+   {
+    "t": "li",
+    "x": "Arthroscopic Surgeries (Knee, Shoulder, Ankle)"
+   },
+   {
+    "t": "li",
+    "x": "Post-Cesarean Section or Hysterectomy Recovery (for pelvic rehab)"
+   },
+   {
+    "t": "li",
+    "x": "Post-Trauma Surgical Recovery"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/home-image-one.webp",
+    "alt": "ACL treatment"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/home-image-two.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/yellow-Ellipse.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "Symptoms That Require Post-Surgical Physiotherapy"
+   },
+   {
+    "t": "h3",
+    "x": "Persistent Pain or Swelling"
+   },
+   {
+    "t": "p",
+    "x": "Ongoing pain or localized swelling around the surgical site may indicate poor healing or inflammation that needs physiotherapy attention."
+   },
+   {
+    "t": "h3",
+    "x": "Joint Stiffness or Limited Range of Motion"
+   },
+   {
+    "t": "p",
+    "x": "Difficulty bending, straightening, or rotating a joint is common post-surgery. Early mobilization with guided exercises can prevent long-term stiffness."
+   },
+   {
+    "t": "h3",
+    "x": "Muscle Weakness or Atrophy"
+   },
+   {
+    "t": "p",
+    "x": "Loss of strength or visible muscle shrinking occurs due to disuse. Physiotherapy helps rebuild strength and restore balance between muscles."
+   },
+   {
+    "t": "h3",
+    "x": "Difficulty Walking or Bearing Weight"
+   },
+   {
+    "t": "p",
+    "x": "Trouble standing, walking, or shifting weight may signal delayed recovery. Therapy improves coordination, gait, and confidence."
+   },
+   {
+    "t": "h3",
+    "x": "Numbness or Tingling"
+   },
+   {
+    "t": "p",
+    "x": "Sensory changes like tingling or numbness in arms or legs may be due to nerve irritation or post-op swelling. Targeted exercises can help."
+   },
+   {
+    "t": "h3",
+    "x": "Loss of Balance or Stability"
+   },
+   {
+    "t": "p",
+    "x": "If you’re feeling unsteady or prone to falls, rehab is essential to improve balance and core stability."
+   },
+   {
+    "t": "h3",
+    "x": "Scar Tissue Tightness"
+   },
+   {
+    "t": "p",
+    "x": "Thickened or tight scar tissue can limit flexibility and cause discomfort. Manual therapy and stretching can ease tightness."
+   },
+   {
+    "t": "h3",
+    "x": "Fatigue During Daily Activities"
+   },
+   {
+    "t": "p",
+    "x": "Getting tired while doing basic tasks like walking or climbing stairs means your endurance needs structured rebuilding."
+   },
+   {
+    "t": "h3",
+    "x": "Poor Posture or Limping Gait"
+   },
+   {
+    "t": "p",
+    "x": "Post-surgery compensation patterns like limping or slouching can lead to secondary pain. Physiotherapy corrects alignment and movement."
+   },
+   {
+    "t": "h3",
+    "x": "Delayed Return to Normal Life or Sports"
+   },
+   {
+    "t": "p",
+    "x": "If you're struggling to return to work, exercise, or daily routines weeks after surgery, structured rehab can safely accelerate your recovery."
+   },
+   {
+    "t": "h2",
+    "x": "Our Treatment Approach for Post Operative Rehabilitation"
+   },
+   {
+    "t": "h3",
+    "x": "Personalized Assessment"
+   },
+   {
+    "t": "p",
+    "x": "We begin with a detailed assessment of your surgery, mobility, pain levels, and current limitations to understand what your body truly needs."
+   },
+   {
+    "t": "h3",
+    "x": "Goal-Oriented Rehab Planning"
+   },
+   {
+    "t": "p",
+    "x": "Whether your goal is to walk pain-free, climb stairs, or return to sport, we design a step-by-step recovery plan tailored to your specific milestones."
+   },
+   {
+    "t": "h3",
+    "x": "Pain & Swelling Management"
+   },
+   {
+    "t": "p",
+    "x": "Our therapists use modalities like ice therapy, manual drainage, TENS, and ultrasound to reduce inflammation and improve comfort early in recovery."
+   },
+   {
+    "t": "h3",
+    "x": "Joint Mobilization & Flexibility Work"
+   },
+   {
+    "t": "p",
+    "x": "Gentle mobilizations and stretching techniques are used to restore your joint range of motion and prevent long-term stiffness."
+   },
+   {
+    "t": "h3",
+    "x": "Strength & Stability Training"
+   },
+   {
+    "t": "p",
+    "x": "We guide you through progressive exercises to rebuild muscle strength, improve balance, and enhance overall stability."
+   },
+   {
+    "t": "h3",
+    "x": "Gait & Movement Re-education"
+   },
+   {
+    "t": "p",
+    "x": "We retrain your walking pattern (gait), posture, and body mechanics to prevent compensations that can cause future pain."
+   },
+   {
+    "t": "h3",
+    "x": "Scar Tissue & Soft Tissue Management"
+   },
+   {
+    "t": "p",
+    "x": "Manual therapy, cupping, and mobility work help reduce scar tissue restrictions and promote healthy tissue healing."
+   },
+   {
+    "t": "h3",
+    "x": "Home Exercise Guidance"
+   },
+   {
+    "t": "p",
+    "x": "You’ll receive personalized home exercises with clear instructions to continue your recovery between sessions."
+   },
+   {
+    "t": "h3",
+    "x": "Progress Monitoring & Support"
+   },
+   {
+    "t": "p",
+    "x": "We track your recovery at every stage and adjust your treatment plan to ensure optimal progress and long-term results."
+   },
+   {
+    "t": "h2",
+    "x": "Why Choose Threads Physio?"
+   },
+   {
+    "t": "li",
+    "x": "Led by Dr. Manu Bora – Our clinic is led by Dr. Manu Bora, a renowned orthopedic surgeon and sports injury specialist. Every treatment plan is guided by clinical insight and hands-on experience."
+   },
+   {
+    "t": "li",
+    "x": "Specialized Post-Surgical Rehab Programs – We offer focused physiotherapy protocols for ACL, joint replacements, spinal surgeries, and more — tailored to your specific surgery."
+   },
+   {
+    "t": "li",
+    "x": "One-on-One Expert Care – Every session is guided by certified physiotherapists who understand post-operative recovery deeply — no shortcuts, no generic plans."
+   },
+   {
+    "t": "li",
+    "x": "State-of-the-Art Facilities – Our clinic is equipped with advanced modalities like ultrasound, electrotherapy, dry needling, and cupping to accelerate healing."
+   },
+   {
+    "t": "li",
+    "x": "Patient-Centered Approach – We prioritize your comfort, confidence, and goals. Whether you're a working professional, athlete, or senior, your care is personalized."
+   },
+   {
+    "t": "li",
+    "x": "Seamless Communication with Your Surgeon – We coordinate directly with orthopedic surgeons if needed, ensuring continuity of care from operating table to full recovery."
+   },
+   {
+    "t": "li",
+    "x": "Proven Track Record – Hundreds of patients have returned to pain-free, active lives after surgery — with Threads Physio by their side."
+   }
+  ],
+  "faqTitle": "FAQs About Post Surgical Rehab",
+  "faqs": []
+ },
+ "conditions/sports-injury-rehabilitation": {
+  "title": "Sports Injury Rehabilitation",
+  "seoTitle": "Sports Injury Rehabilitation - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Sports Injury Rehabilitation"
+   },
+   {
+    "t": "p",
+    "x": "We are dealing with Sports injury rehab which is the process of restoring function and strength to an injured area of the body and joint, typically caused by participation in sports or physical activity."
+   },
+   {
+    "t": "p",
+    "x": "It involves a combination of exercises, strength training and physical therapy, and sometimes medical interventions to help the injured individual recover and return to their previous level of activity. The goal is not only to heal the injury but also to prevent future occurrences."
+   },
+   {
+    "t": "li",
+    "x": "Cardio vascular endurance testing"
+   },
+   {
+    "t": "li",
+    "x": "Upper and lower extremity testing"
+   },
+   {
+    "t": "li",
+    "x": "Core Testing"
+   },
+   {
+    "t": "li",
+    "x": "Speed, agility, strength and balance testing"
+   },
+   {
+    "t": "li",
+    "x": "Gait analysis"
+   },
+   {
+    "t": "li",
+    "x": "Aerobic and anaerobic power"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/other-two.webp",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "x": "Our Expertise"
+   },
+   {
+    "t": "p",
+    "x": "Acl rehabilitation in non-operative conditions and post operative Acl conditions."
+   },
+   {
+    "t": "h3",
+    "x": "Our Mission"
+   },
+   {
+    "t": "p",
+    "x": "We focused to restore ROM (Range of Motion), stability , strength and function of the knee."
+   },
+   {
+    "t": "h3",
+    "x": "Our Goal"
+   },
+   {
+    "t": "p",
+    "x": "The goal after Acl injury or surgery is to return the patient to a normal complete level of function, their required physical activities and specific sports."
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "contact-us": {
+  "title": "Contact Us",
+  "seoTitle": "Contact Us - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h2",
+    "x": "Contact Us"
+   },
+   {
+    "t": "h2",
+    "x": "Get in touch"
+   },
+   {
+    "t": "li",
+    "x": "F, 10/4, Golf Course Rd, DLF Phase 1, Sector 27, Gurugram, Haryana 122001"
+   },
+   {
+    "t": "li",
+    "x": "+91-9310138022"
+   },
+   {
+    "t": "li",
+    "x": "threadsphysio@gmail.com"
+   },
+   {
+    "t": "p",
+    "x": "For Medical Camps, Seminars and Webinars mail us your proposal at"
+   },
+   {
+    "t": "li",
+    "x": "physiothreads@gmail.com"
+   },
+   {
+    "t": "p",
+    "x": "Follow us on:"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "foot-and-ankle-pain-treatment-in-gurgaon": {
+  "title": "Foot and Ankle Pain Treatment in Gurgaon with Expert Physiotherapy",
+  "seoTitle": "Foot and Ankle Pain Treatment in Gurgaon with Expert Physiotherapy",
+  "description": "Looking for back pain treatment in Gurgaon? Threads Physio offers expert physiotherapy for long-lasting relief and recovery.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Walk Pain-Free Again with Foot & Ankle Therapy in Gurgaon"
+   },
+   {
+    "t": "p",
+    "x": "Foot and ankle pain can affect your ability to walk, exercise, or even carry out daily tasks comfortably. Whether you’re dealing with a recent sprain, heel pain, plantar fasciitis, or long-term joint discomfort, early treatment is key to a full recovery."
+   },
+   {
+    "t": "p",
+    "x": "At Threads Physio by Dr. Manu Bora, we offer specialized physiotherapy for ankle and foot conditions in Gurgaon. Our expert team focuses on reducing pain, improving mobility, and preventing re-injury—through personalized care plans and advanced techniques. Whether you’re an athlete, a working professional, or someone recovering from surgery, we’ll help you get back on your feet with confidence."
+   },
+   {
+    "t": "h3",
+    "x": "2000+ Patients Treated"
+   },
+   {
+    "t": "h3",
+    "x": "3000 Sq Ft Dedicated Rehabilitation Area"
+   },
+   {
+    "t": "h3",
+    "x": "Internationally Trained Physiotherapist"
+   },
+   {
+    "t": "h2",
+    "x": "Common Conditions We Treat"
+   },
+   {
+    "t": "li",
+    "x": "Ankle Sprains – Ligament injuries caused by twisting or rolling the ankle, leading to pain, swelling, and instability."
+   },
+   {
+    "t": "li",
+    "x": "Achilles Tendinitis – Overuse injury of the Achilles tendon, leading to heel pain and stiffness, especially during walking or running."
+   },
+   {
+    "t": "li",
+    "x": "Flat Feet (Fallen Arches) – A condition where the arches collapse, leading to foot fatigue, ankle pain, and alignment issues."
+   },
+   {
+    "t": "li",
+    "x": "Stress Fractures – Tiny cracks in the bones of the foot or ankle caused by repetitive force, common in runners and athletes."
+   },
+   {
+    "t": "li",
+    "x": "Plantar Fasciitis – Inflammation of the tissue under the heel, often causing sharp pain with the first steps in the morning."
+   },
+   {
+    "t": "li",
+    "x": "Heel Spurs – Bony growths under the heel that cause chronic pain while standing or walking."
+   },
+   {
+    "t": "li",
+    "x": "Tarsal Tunnel Syndrome – Nerve compression near the ankle that causes numbness, tingling, or burning in the foot."
+   },
+   {
+    "t": "li",
+    "x": "Post-Surgical Rehabilitation – Recovery and strengthening after foot or ankle surgeries, helping restore mobility and reduce stiffness."
+   },
+   {
+    "t": "li",
+    "x": "Arthritis of the Ankle/Foot – Joint pain, swelling, and reduced motion due to wear-and-tear or inflammatory arthritis."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/home-image-one.webp",
+    "alt": "ACL treatment"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/home-image-two.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/yellow-Ellipse.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "Symptoms That Require Treatment"
+   },
+   {
+    "t": "h3",
+    "x": "Pain While Walking or Standing"
+   },
+   {
+    "t": "p",
+    "x": "Discomfort in your heel, arch, or ankle during routine activities may indicate an underlying issue like plantar fasciitis or joint inflammation."
+   },
+   {
+    "t": "h3",
+    "x": "Swelling Around the Ankle or Foot"
+   },
+   {
+    "t": "p",
+    "x": "Visible swelling after activity or at rest can signal ligament strain, fluid retention, or soft tissue injury that needs medical attention."
+   },
+   {
+    "t": "h3",
+    "x": "Instability or Frequent Twisting"
+   },
+   {
+    "t": "p",
+    "x": "If your ankle feels wobbly or gives way while walking, it may be due to weakened ligaments or poor joint support, increasing the risk of falls."
+   },
+   {
+    "t": "h3",
+    "x": "Stiffness After Rest"
+   },
+   {
+    "t": "p",
+    "x": "Difficulty moving your foot or ankle after sitting or sleeping could point to arthritis, tendon issues, or inflammation that needs targeted therapy."
+   },
+   {
+    "t": "h3",
+    "x": "Tingling or Numbness"
+   },
+   {
+    "t": "p",
+    "x": "Burning, numbness, or a “pins and needles” sensation in your foot may indicate nerve compression, such as tarsal tunnel syndrome."
+   },
+   {
+    "t": "h3",
+    "x": "Pain in the Morning or After Exercise"
+   },
+   {
+    "t": "p",
+    "x": "Sharp or dull pain that’s worse after rest or physical activity is a common sign of tendonitis or overuse injuries."
+   },
+   {
+    "t": "h3",
+    "x": "Visible Bruising or Change in Foot Shape"
+   },
+   {
+    "t": "p",
+    "x": "Sudden bruising, arch collapse, or deformity could signal serious conditions like stress fractures or flat foot problems that require physiotherapy support."
+   },
+   {
+    "t": "h2",
+    "x": "Our Treatment Approach for Ankle and Foot Pain"
+   },
+   {
+    "t": "h3",
+    "x": "Detailed Evaluation"
+   },
+   {
+    "t": "p",
+    "x": "We begin with a thorough assessment of your gait, joint movement, muscle strength, and pain triggers to identify the root cause of your condition."
+   },
+   {
+    "t": "h3",
+    "x": "Manual Therapy & Joint Mobilization"
+   },
+   {
+    "t": "p",
+    "x": "Gentle hands-on techniques are used to improve joint flexibility, reduce stiffness, and ease tension in surrounding muscles and soft tissues."
+   },
+   {
+    "t": "h3",
+    "x": "Strengthening & Balance Training"
+   },
+   {
+    "t": "p",
+    "x": "Targeted exercises help stabilize the ankle, strengthen weak muscles, and improve balance to prevent recurrent injuries or falls."
+   },
+   {
+    "t": "h3",
+    "x": "Advanced Modalities"
+   },
+   {
+    "t": "p",
+    "x": "We use electrotherapy, ultrasound therapy, dry needling, or taping techniques to reduce inflammation, stimulate healing, and relieve pain."
+   },
+   {
+    "t": "h3",
+    "x": "Gait & Posture Correction"
+   },
+   {
+    "t": "p",
+    "x": "If poor walking mechanics are contributing to your pain, we help retrain your movement patterns for long-term relief and injury prevention."
+   },
+   {
+    "t": "h3",
+    "x": "Home Exercise Plan"
+   },
+   {
+    "t": "p",
+    "x": "To support ongoing recovery, we provide personalized home exercises that improve joint function and maintain progress between sessions."
+   },
+   {
+    "t": "h2",
+    "x": "Why Choose Threads Physio?"
+   },
+   {
+    "t": "p",
+    "x": "We are committed to helping you recover from foot and ankle pain with care that’s effective, personalized, and rooted in clinical expertise. Here’s why patients across Gurgaon trust us:"
+   },
+   {
+    "t": "li",
+    "x": "Led by Experts in Sports & Joint Care – Our clinic is led by Dr. Manu Bora, a renowned orthopedic surgeon and sports injury specialist. Every treatment plan is guided by clinical insight and hands-on experience."
+   },
+   {
+    "t": "li",
+    "x": "Personalized Physiotherapy Plans – We don’t follow a one-size-fits-all approach. Each patient receives a tailored treatment plan based on their pain level, lifestyle, and recovery goals."
+   },
+   {
+    "t": "li",
+    "x": "Advanced Treatment Techniques – From manual therapy and cupping to dry needling, taping, and electrotherapy—we use a combination of modern methods to deliver faster, long-lasting relief."
+   },
+   {
+    "t": "li",
+    "x": "Trusted by Athletes & Working Professionals – Whether you’re an athlete recovering from a sprain or a working professional struggling with chronic heel pain—we treat patients from all walks of life with compassion and precision."
+   },
+   {
+    "t": "li",
+    "x": "Convenient, Patient-Centered Clinic in Gurgaon – Located in a prime area, Threads Physio offers a clean, modern, and accessible space where your comfort and progress come first."
+   },
+   {
+    "t": "p",
+    "x": "Patient Feedback"
+   }
+  ],
+  "faqTitle": "FAQs About About Foot and Ankle Physiotherapy Treatment",
+  "faqs": []
+ },
+ "our-services": {
+  "title": "Our Services",
+  "seoTitle": "Our Services - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Our Services"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/BACKBONE-2x.png",
+    "alt": "Bio Mechanical Assessment"
+   },
+   {
+    "t": "h2",
+    "x": "Bio Mechanical Assessment"
+   },
+   {
+    "t": "p",
+    "x": "A detailed assessment of your movement patterns to analyse risk of injuries patterns."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/MUSCLE-2x.png",
+    "alt": "Sports Physiotherapy"
+   },
+   {
+    "t": "h2",
+    "x": "Sports Physiotherapy"
+   },
+   {
+    "t": "p",
+    "x": "It involves treatment plans specially designed to treat injuries and conditions that occur while playing sports like acl injuries, shoulder injuries and recurring ankle injuries."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/MASSAGER-2x.png",
+    "alt": "Sports Specific Training"
+   },
+   {
+    "t": "h2",
+    "x": "Sports Specific Training"
+   },
+   {
+    "t": "p",
+    "x": "A highly specific rehabilitation programme for athletes and sports persons to meet their sporting demands.."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/LEG-SLING-2x.png",
+    "alt": "High Performance Training"
+   },
+   {
+    "t": "h2",
+    "x": "High Performance Training"
+   },
+   {
+    "t": "p",
+    "x": "It helps in identifying strength, weakness and areas to maximise the athlete’s performance in sports and high-level activities."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/ACUPUNTURE-2x.png",
+    "alt": "Injury Prevention"
+   },
+   {
+    "t": "h2",
+    "x": "Injury Prevention"
+   },
+   {
+    "t": "p",
+    "x": "A pre injury rehab programme designed to your needs to prevent injuries when you might encounter when you play."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/JOINT-2x.png",
+    "alt": "Online Physiotherapy"
+   },
+   {
+    "t": "h2",
+    "x": "Online Physiotherapy"
+   },
+   {
+    "t": "p",
+    "x": "Anyone from anywhere in the world can get physiotherapy sessions for faster recovery form our expert’s panel online."
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "our-services/acl-surgery": {
+  "title": "Best ACL Surgery in Gurgaon",
+  "seoTitle": "Best ACL Surgery in Gurgaon - Threads Physio",
+  "description": "Get the best ACL surgery in Gurgaon at Threads Physio. Expert orthopedic surgeons, advanced arthroscopic techniques, and personalized recovery plans.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Best ACL Surgery in Gurgaon"
+   },
+   {
+    "t": "p",
+    "x": "An ACL injury can significantly affect your mobility and overall quality of life, especially if you lead an active lifestyle. The Anterior Cruciate Ligament (ACL) is vital for knee stability, and when it’s torn or damaged, timely and effective treatment is essential. At Threads Physio, we are proud to offer the best ACL surgery in Gurgaon, combining advanced techniques like arthroscopic ACL reconstruction with personalized care to ensure optimal recovery."
+   },
+   {
+    "t": "p",
+    "x": "Our experienced team of orthopedic surgeons and physiotherapists specializes in ACL tear surgery, guiding you from diagnosis through treatment and post-surgery rehabilitation. Whether you need surgical intervention, an ACL brace for sports, or a tailored recovery plan, we provide comprehensive solutions designed to restore your mobility and get you back to peak performance."
+   },
+   {
+    "t": "p",
+    "x": "Trust Threads Physio for expert care, state-of-the-art facilities, and compassionate support throughout your journey to recovery. Let us help you take the first step toward a stronger, more confident future."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/other-three.webp",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "Understanding ACL Injuries"
+   },
+   {
+    "t": "p",
+    "x": "The Anterior Cruciate Ligament (ACL) is one of the major ligaments in your knee, responsible for maintaining stability and proper movement. An ACL tear occurs when this ligament is overstretched or completely ruptured, typically due to sudden twists, awkward landings, or direct impact. It’s a common injury among athletes involved in high-intensity sports like football, basketball, and skiing."
+   },
+   {
+    "t": "p",
+    "x": "Depending on the severity of the injury, an ACL tear can range from a minor sprain to a complete rupture, often requiring advanced treatment like ACL surgery to restore normal knee function."
+   },
+   {
+    "t": "h3",
+    "x": "What is an ACL Tear?"
+   },
+   {
+    "t": "p",
+    "x": "The Anterior Cruciate Ligament (ACL) is one of the major ligaments in your knee, responsible for maintaining stability and proper movement. An ACL tear occurs when this ligament is overstretched or completely ruptured, typically due to sudden twists, awkward landings, or direct impact. It’s a common injury among athletes involved in high-intensity sports like football, basketball, and skiing."
+   },
+   {
+    "t": "p",
+    "x": "Depending on the severity of the injury, an ACL tear can range from a minor sprain to a complete rupture, often requiring advanced treatment like ACL surgery to restore normal knee function."
+   },
+   {
+    "t": "h3",
+    "x": "Symptoms of an ACL Tear"
+   },
+   {
+    "t": "p",
+    "x": "Recognizing the symptoms of an ACL tear is crucial for timely diagnosis and treatment. Common signs include:"
+   },
+   {
+    "t": "li",
+    "x": "A Popping Sensation: Many individuals report hearing or feeling a “pop” in the knee at the time of injury."
+   },
+   {
+    "t": "li",
+    "x": "Severe Pain: Intense pain that prevents you from continuing activity is a hallmark symptom."
+   },
+   {
+    "t": "li",
+    "x": "Swelling: Rapid swelling within hours due to bleeding within the joint."
+   },
+   {
+    "t": "li",
+    "x": "Instability: A feeling of the knee “giving out,” especially during movements like walking or pivoting."
+   },
+   {
+    "t": "li",
+    "x": "Limited Range of Motion: Difficulty bending or straightening the knee fully."
+   },
+   {
+    "t": "p",
+    "x": "If you experience these symptoms, seeking immediate medical attention is essential to avoid further complications."
+   },
+   {
+    "t": "h2",
+    "x": "Why ACL Reconstruction is Necessary?"
+   },
+   {
+    "t": "p",
+    "x": "While minor ACL sprains can sometimes heal with rest and physiotherapy, severe tears often require ACL reconstruction surgery. Here’s why:"
+   },
+   {
+    "t": "li",
+    "x": "Restore Knee Stability: A torn ACL can lead to chronic knee instability, affecting everyday movements and athletic performance. Surgery helps restore stability for a fully functional knee."
+   },
+   {
+    "t": "li",
+    "x": "Prevent Further Damage: Without proper treatment, an ACL tear can increase the risk of damage to other knee structures, such as the meniscus or cartilage."
+   },
+   {
+    "t": "li",
+    "x": "Enable Active Lifestyles: For athletes or physically active individuals, surgery is often the only way to regain full functionality and return to their sport safely."
+   },
+   {
+    "t": "li",
+    "x": "Long-Term Health Benefits: Left untreated, a torn ACL can lead to arthritis and long-term joint issues. Surgery minimizes these risks by ensuring proper knee alignment and function."
+   },
+   {
+    "t": "p",
+    "x": "At Threads Physio, we specialize in arthroscopic ACL reconstruction, a minimally invasive procedure that ensures faster recovery, less scarring, and optimal outcomes. Combined with personalized rehabilitation programs, our approach helps patients regain mobility, strength, and confidence."
+   },
+   {
+    "t": "h2",
+    "x": "Advanced Treatment Options for ACL Tears at Threads Physio"
+   },
+   {
+    "t": "h3",
+    "x": "Arthroscopic ACL Reconstruction"
+   },
+   {
+    "t": "p",
+    "x": "At Threads Physio, we specialize in arthroscopic ACL reconstruction, a state-of-the-art surgical technique designed to repair torn ligaments with minimal invasion. This advanced procedure involves the use of a small camera (arthroscope) and specialized instruments to reconstruct the ACL through tiny incisions."
+   },
+   {
+    "t": "h4",
+    "x": "Benefits of Arthroscopic ACL Reconstruction"
+   },
+   {
+    "t": "li",
+    "x": "Minimally Invasive: Reduced scarring, less pain, and faster healing compared to traditional open surgery."
+   },
+   {
+    "t": "li",
+    "x": "Precise Results: Enhanced accuracy in repairing and reconstructing the ligament."
+   },
+   {
+    "t": "li",
+    "x": "Quick Recovery: Patients can begin rehabilitation sooner, speeding up the recovery process."
+   },
+   {
+    "t": "h2",
+    "x": "Use of ACL Braces for Recovery and Sports"
+   },
+   {
+    "t": "p",
+    "x": "An ACL brace is a crucial part of the recovery process following surgery and plays a vital role in preventing reinjury during sports. These braces provide additional support to the knee, limiting unnecessary movements and stabilizing the joint as it heals."
+   },
+   {
+    "t": "h3",
+    "x": "How ACL Braces Help"
+   },
+   {
+    "t": "li",
+    "x": "Post-Surgical Support: Protects the reconstructed ligament during the early stages of recovery."
+   },
+   {
+    "t": "li",
+    "x": "Enhanced Stability: Reduces the risk of excessive movement that could strain the healing ACL."
+   },
+   {
+    "t": "li",
+    "x": "Return to Sports Safely: For athletes, braces offer confidence and protection when resuming high-impact activities."
+   },
+   {
+    "t": "h2",
+    "x": "Why Choose Threads Physio for ACL Surgery?"
+   },
+   {
+    "t": "h3",
+    "x": "✅ Experienced Orthopedic Surgeons for ACL Reconstruction"
+   },
+   {
+    "t": "p",
+    "x": "At Threads Physio, our team includes some of the best orthopedic surgeons for ACL reconstruction in Gurgaon. With years of expertise in managing complex cases, our surgeons specialize in arthroscopic ACL reconstruction, ensuring precision and excellent outcomes. Their patient-centric approach and commitment to excellence make us the trusted choice for ACL surgery."
+   },
+   {
+    "t": "h3",
+    "x": "✅ Comprehensive Post-Surgery Rehabilitation"
+   },
+   {
+    "t": "p",
+    "x": "Successful ACL surgery is only part of the recovery journey; rehabilitation plays an equally vital role. At Threads Physio, we offer personalized post-surgery rehab programs that focus on:"
+   },
+   {
+    "t": "li",
+    "x": "Restoring knee strength and flexibility."
+   },
+   {
+    "t": "li",
+    "x": "Improving balance and coordination."
+   },
+   {
+    "t": "li",
+    "x": "Preparing you for a safe return to daily activities or sports."
+   },
+   {
+    "t": "p",
+    "x": "Our in-house physiotherapists collaborate closely with your surgeon to ensure a seamless recovery experience."
+   },
+   {
+    "t": "h3",
+    "x": "✅ State-of-the-Art Facilities"
+   },
+   {
+    "t": "p",
+    "x": "Threads Physio is equipped with cutting-edge medical technology and advanced diagnostic tools to provide the highest quality care. Our facility is designed to support minimally invasive procedures like arthroscopic ACL surgery and offers a comfortable, patient-friendly environment to promote healing and recovery."
+   },
+   {
+    "t": "h3",
+    "x": "✅ Customized Care Plans"
+   },
+   {
+    "t": "p",
+    "x": "No two patients are the same, and neither are their treatment needs. At Threads Physio, we develop customized care plans tailored to your specific condition, lifestyle, and recovery goals. From pre-surgery guidance to post-surgery rehabilitation, our multidisciplinary team ensures you receive holistic care at every step."
+   },
+   {
+    "t": "h2",
+    "x": "Our Orthopedic Surgeons Specializing in ACL Reconstruction"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/dr-manu2.webp",
+    "alt": "best acl surgeon in gurgaon"
+   },
+   {
+    "t": "h3",
+    "x": "Dr. Manu Bora"
+   },
+   {
+    "t": "p",
+    "x": "Associate Consultant – Arthroscopy & Sports Medicine MBBS, M.S (Orthopaedics) FNB(Sports Medicine and Arthroscopy)"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/dr-akhil-1.webp",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "x": "Dr. Akhil Agnihotri"
+   },
+   {
+    "t": "p",
+    "x": "Associate Consultant – Arthroscopy & Sports Medicine MBBS, M.S (Orthopaedics) FNB(Sports Medicine and Arthroscopy)"
+   }
+  ],
+  "faqTitle": "FAQs About ACL Surgery",
+  "faqs": []
+ },
+ "our-services/bio-mechanical-assessment": {
+  "title": "Bio Mechanical Assessment",
+  "seoTitle": "Bio Mechanical Assessment - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Bio Mechanical Assessment"
+   },
+   {
+    "t": "p",
+    "x": "At Threads Physio, our Bio Mechanical Assessment is designed to analyze how your body moves, identifying imbalances, weaknesses, or abnormalities that could lead to pain or injury. Whether you’re an athlete aiming to enhance performance or someone seeking relief from chronic discomfort, this comprehensive evaluation provides valuable insights into your posture, gait, and movement patterns."
+   },
+   {
+    "t": "p",
+    "x": "Using advanced techniques and tools, our experts tailor personalized plans to correct these issues, ensuring improved mobility, reduced injury risk, and overall physical well-being. Experience the difference of a science-backed approach to movement at Threads Physio."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/other-four.webp",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "x": "Our Expertise"
+   },
+   {
+    "t": "p",
+    "x": "Acl rehabilitation in non-operative conditions and post operative Acl conditions."
+   },
+   {
+    "t": "h3",
+    "x": "Our Mission"
+   },
+   {
+    "t": "p",
+    "x": "We focused to restore ROM (Range of Motion), stability , strength and function of the knee."
+   },
+   {
+    "t": "h3",
+    "x": "Our Goal"
+   },
+   {
+    "t": "p",
+    "x": "The goal after Acl injury or surgery is to return the patient to a normal complete level of function, their required physical activities and specific sports."
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "our-services/high-performance-training": {
+  "title": "High Performance Training",
+  "seoTitle": "High Performance Training - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "High Performance Training"
+   },
+   {
+    "t": "p",
+    "x": "At Threads Physio, we help you reach your best with our High-Performance Training program. Whether you’re an athlete preparing for a competition or someone aiming to improve your fitness, this program is designed to take you to the next level."
+   },
+   {
+    "t": "p",
+    "x": "Our training focuses on building your strength, stamina, speed, and overall fitness while keeping you safe from injuries. Using the latest techniques and expert guidance, we create personalized plans to suit your goals."
+   },
+   {
+    "t": "p",
+    "x": "Take your first step toward better performance—train smarter, get stronger, and achieve more with Threads Physio."
+   },
+   {
+    "t": "h2",
+    "x": "Our High-Performance Training Includes:"
+   },
+   {
+    "t": "li",
+    "x": "Tailored exercises to improve muscle strength and explosive power"
+   },
+   {
+    "t": "li",
+    "x": "Workouts designed to enhance stamina and overall fitness levels"
+   },
+   {
+    "t": "li",
+    "x": "Focused drills to improve quickness, coordination, and balance"
+   },
+   {
+    "t": "li",
+    "x": "Techniques to reduce the risk of injuries and ensure safe training"
+   },
+   {
+    "t": "li",
+    "x": "Customized workouts based on your specific goals and fitness level"
+   },
+   {
+    "t": "li",
+    "x": "Guidance on proper recovery methods to keep your body in top condition"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/other-one.webp",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "x": "Our Expertise"
+   },
+   {
+    "t": "p",
+    "x": "Acl rehabilitation in non-operative conditions and post operative Acl conditions."
+   },
+   {
+    "t": "h3",
+    "x": "Our Mission"
+   },
+   {
+    "t": "p",
+    "x": "We focused to restore ROM (Range of Motion), stability , strength and function of the knee."
+   },
+   {
+    "t": "h3",
+    "x": "Our Goal"
+   },
+   {
+    "t": "p",
+    "x": "The goal after Acl injury or surgery is to return the patient to a normal complete level of function, their required physical activities and specific sports."
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "our-services/injury-prevention": {
+  "title": "Injury Prevention",
+  "seoTitle": "Injury Prevention - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h2",
+    "x": "Injury Prevention"
+   },
+   {
+    "t": "p",
+    "x": "At Threads Physio, we believe that prevention is the key to staying active and healthy. Our Injury Prevention program is designed to help you reduce the risk of injuries and maintain optimal performance in your daily activities or sports."
+   },
+   {
+    "t": "p",
+    "x": "Through a combination of movement analysis, strengthening exercises, and expert guidance, we focus on improving your flexibility, posture, and overall body mechanics. Whether you’re an athlete or someone looking to stay fit, our program ensures you’re ready to perform safely and effectively."
+   },
+   {
+    "t": "p",
+    "x": "With the right strategies and techniques, you can keep your body in top shape and avoid injuries before they happen. Trust Threads Physio to help you stay strong, injury-free, and performing at your best."
+   },
+   {
+    "t": "h2",
+    "x": "Our Injury Prevention Services Include:"
+   },
+   {
+    "t": "li",
+    "x": "Movement and Posture Analysis"
+   },
+   {
+    "t": "li",
+    "x": "Personalized Strengthening Programs"
+   },
+   {
+    "t": "li",
+    "x": "Flexibility and Mobility Routines"
+   },
+   {
+    "t": "li",
+    "x": "Sports-Specific Injury Prevention"
+   },
+   {
+    "t": "li",
+    "x": "Footwear and Equipment Guidance"
+   },
+   {
+    "t": "li",
+    "x": "Warm-Up and Cool-Down Plans"
+   },
+   {
+    "t": "li",
+    "x": "Education on Injury Prevention"
+   },
+   {
+    "t": "li",
+    "x": "Rehabilitation Support"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/senior-man-in-nursing-home-doing-physiotherapy.jpg",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "x": "Our Expertise"
+   },
+   {
+    "t": "p",
+    "x": "Acl rehabilitation in non-operative conditions and post operative Acl conditions."
+   },
+   {
+    "t": "h3",
+    "x": "Our Mission"
+   },
+   {
+    "t": "p",
+    "x": "We focused to restore ROM (Range of Motion), stability , strength and function of the knee."
+   },
+   {
+    "t": "h3",
+    "x": "Our Goal"
+   },
+   {
+    "t": "p",
+    "x": "The goal after Acl injury or surgery is to return the patient to a normal complete level of function, their required physical activities and specific sports."
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "our-services/online-physiotherapy": {
+  "title": "Online Physiotherapy",
+  "seoTitle": "Online Physiotherapy - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Online Physiotherapy"
+   },
+   {
+    "t": "p",
+    "x": "At Threads Physio we believe that distance should not be a constraint to make them injury free."
+   },
+   {
+    "t": "p",
+    "x": "We provide online physiotherapy allowing patients to receive professional care and guidance at the comfort of their phone:"
+   },
+   {
+    "t": "h3",
+    "x": "Initial Consultation"
+   },
+   {
+    "t": "p",
+    "x": "A thorough assessment of your condition, medical history, and specific needs. This helps the physiotherapist understand your problems and design a personalized treatment plan."
+   },
+   {
+    "t": "h3",
+    "x": "Treatment Sessions"
+   },
+   {
+    "t": "p",
+    "x": "Regular virtual sessions where the physiotherapist guides you through exercises, stretches, and other therapeutic activities. These sessions are interactive and can be adjusted based on your progress."
+   },
+   {
+    "t": "h3",
+    "x": "Exercise Plans"
+   },
+   {
+    "t": "p",
+    "x": "Custom exercise regimens designed to improve your condition. These plans are often shared through videos or written instructions to ensure you perform them correctly between sessions."
+   },
+   {
+    "t": "h3",
+    "x": "Progress Tracking"
+   },
+   {
+    "t": "p",
+    "x": "Ongoing assessment and adjustment of your treatment plan based on your progress. This includes regular check-ins and feedback to ensure you are meeting your recovery goals."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/senior-man-in-nursing-home-doing-physiotherapy.jpg",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "x": "The Online Physiotherapy sessions are conducted by Zoom/ WhatsApp video calls."
+   },
+   {
+    "t": "p",
+    "x": "Requirements for Online Physiotherapy:"
+   },
+   {
+    "t": "li",
+    "x": "Stable internet connection"
+   },
+   {
+    "t": "li",
+    "x": "Mobile phone with proper camera"
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "our-services/sports-physiotherapy": {
+  "title": "Best Sports Physiotherapist in Gurgaon",
+  "seoTitle": "Best Sports Physiotherapist in Gurgaon - Threads Physio",
+  "description": "Searching for a sports physiotherapist in Gurgaon? Threads Physio offers expert care for sports injuries, ACL recovery, and performance enhancement.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Get Treated by the Best Sports Physiotherapist in Gurgaon"
+   },
+   {
+    "t": "p",
+    "x": "At Threads Physio, we understand how crucial it is for athletes and active individuals to stay in peak physical condition. Whether you’re recovering from a sports injury, managing chronic pain, or looking to enhance your performance, our specialized sports physiotherapists are here to help."
+   },
+   {
+    "t": "p",
+    "x": "Our experts are highly trained in diagnosing and treating a wide range of sports injuries, including ACL tears, sprains, strains, and more. Using advanced techniques and personalized treatment plans, we ensure you recover faster, prevent future injuries, and get back to doing what you love."
+   },
+   {
+    "t": "p",
+    "x": "With state-of-the-art facilities and a patient-centered approach, Threads Physio is your trusted partner for sports physiotherapy in Gurgaon. Don’t let pain or injuries hold you back—take the first step towards a stronger, healthier you!"
+   },
+   {
+    "t": "h2",
+    "x": "Our return to sports training includes:"
+   },
+   {
+    "t": "li",
+    "x": "Cardio vascular endurance testing"
+   },
+   {
+    "t": "li",
+    "x": "Upper and lower extremity testing"
+   },
+   {
+    "t": "li",
+    "x": "Core Testing"
+   },
+   {
+    "t": "li",
+    "x": "Speed, agility, strength and balance testing"
+   },
+   {
+    "t": "li",
+    "x": "Gait analysis"
+   },
+   {
+    "t": "li",
+    "x": "Aerobic and anaerobic power"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/other-three.webp",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "How Sports Physiotherapy Helps?"
+   },
+   {
+    "t": "p",
+    "x": "Sports physiotherapy is not just for athletes; it’s a specialized branch of physiotherapy designed for anyone engaging in physical activities. Whether you’re a professional athlete, a fitness enthusiast, or someone recovering from a sports-related injury, sports physiotherapy can be a game-changer. Here’s why you should consider it:"
+   },
+   {
+    "t": "h3",
+    "x": "Personalized Treatment Plans"
+   },
+   {
+    "t": "p",
+    "x": "Unlike general physiotherapy, sports physiotherapy offers tailored programs based on the nature of your sport, injury, and performance goals. This personalized approach makes recovery more effective and sustainable."
+   },
+   {
+    "t": "h3",
+    "x": "Faster Recovery"
+   },
+   {
+    "t": "p",
+    "x": "Recovering from an injury can be a long process, but sports physiotherapy accelerates healing by focusing on mobility, flexibility, and muscle activation. This ensures you get back to your activity or sport sooner."
+   },
+   {
+    "t": "h3",
+    "x": "Injury Prevention"
+   },
+   {
+    "t": "p",
+    "x": "Sports physiotherapists help identify and address potential weaknesses in your body that could lead to injuries. With targeted exercises and techniques, you can build strength and resilience, reducing the risk of future injuries."
+   },
+   {
+    "t": "h3",
+    "x": "Support for All Activity Levels"
+   },
+   {
+    "t": "p",
+    "x": "Whether you’re playing at a competitive level or engaging in recreational sports, sports physiotherapy caters to all levels, providing the care and guidance you need to stay active and injury-free."
+   },
+   {
+    "t": "h3",
+    "x": "Comprehensive Care"
+   },
+   {
+    "t": "p",
+    "x": "Beyond treating injuries, sports physiotherapy addresses chronic conditions, muscle imbalances, and postural issues, ensuring your overall physical health is maintained."
+   },
+   {
+    "t": "h3",
+    "x": "Enhanced Performance"
+   },
+   {
+    "t": "p",
+    "x": "Sports physiotherapists work to optimize your body’s biomechanics, improving endurance, agility, and strength. This not only aids recovery but also helps you perform at your peak."
+   },
+   {
+    "t": "p",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "h2",
+    "x": "Why Choose Threads Physio?"
+   },
+   {
+    "t": "p",
+    "x": "Threads Physio is more than just a physiotherapy clinic—we are the best sports physiotherapist in Gurgaon that helps you in recovery, performance enhancement, and overall well-being. Here’s what sets us apart:"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   },
+   {
+    "t": "h2",
+    "x": "Our Expertise"
+   },
+   {
+    "t": "p",
+    "x": "Acl rehabilitation in non-operative conditions and post operative Acl conditions."
+   },
+   {
+    "t": "h2",
+    "x": "Our Mission"
+   },
+   {
+    "t": "p",
+    "x": "We focused to restore ROM (Range of Motion), stability , strength and function of the knee."
+   },
+   {
+    "t": "h2",
+    "x": "Our Goal"
+   },
+   {
+    "t": "p",
+    "x": "The goal after Acl injury or surgery is to return the patient to a normal complete level of function, their required physical activities and specific sports."
+   }
+  ],
+  "faqTitle": "FAQs Related to Sports Physiotherapy",
+  "faqs": [
+   {
+    "q": "What is the role of a sports physiotherapist?",
+    "a": "<p>A sports physiotherapist specializes in diagnosing, treating, and preventing injuries related to sports and physical activities. Their role is to help athletes—whether professional or recreational—recover from injuries, improve their performance, and prevent future problems. Here’s what they do:</p><ul><li>Injury Diagnosis</li><li>Pain Management</li><li>Rehabilitation</li><li>Performance Enhancement</li><li>Injury Prevention</li><li>Post-Surgery Recovery</li></ul><p>Overall, sports physiotherapists play a vital role in ensuring that athletes stay in top shape, recover from injuries effectively, and continue performing at their best.</p>"
+   },
+   {
+    "q": "How can sports physiotherapy help prevent injuries?",
+    "a": "<p>Sports physiotherapy plays a crucial role in injury prevention by focusing on improving body mechanics, strength, flexibility, and overall fitness. Here's how it helps: </p><ul><li>Identifying Risk Factors</li><li>Improving Strength and Flexibility</li><li>Developing Personalized Exercise Programs</li><li>Enhancing Technique and Posture</li><li>Warm-Up and Cool-Down Guidance</li><li>Educating on Injury Prevention Strategies</li></ul><p>By focusing on these aspects, sports physiotherapy helps reduce the likelihood of injuries and enables you to stay active, perform at your best, and enjoy your chosen sports with confidence.</p>"
+   },
+   {
+    "q": "What sports injuries require physiotherapy?",
+    "a": "<p>Sports injuries can range from mild strains to more severe tears or fractures, and physiotherapy is often essential for effective treatment and recovery. Here are some common sports injuries that require physiotherapy:</p><ul><li>Sprains and Strains</li><li>Fractures</li><li>Tendinitis and Tendon Injuries</li><li>ACL and Ligament Injuries</li><li>Rotator Cuff Injuries</li><li>Patellar Tendonitis (Jumper’s Knee)</li><li>Shin Splints</li><li>Muscle Tears and Pulled Muscles</li><li>Dislocations</li><li>Concussions and Head Injuries</li><li>Fractured Fingers or Toes</li></ul>"
+   },
+   {
+    "q": "How many sessions are needed for recovery?",
+    "a": "<p>The number of physiotherapy sessions required for recovery can vary depending on several factors, such as the type and severity of the injury, the individual's overall health, and how well they follow the treatment plan. Generally, the following factors influence the number of sessions:</p><ul><li>Type of Injury</li><li>Severity of the Injury</li><li>Patient’s Health and Fitness Level</li><li>Commitment to the Treatment Plan</li><li>Rehabilitation and Performance Goals</li></ul>"
+   },
+   {
+    "q": "Is sports physiotherapy safe for all age groups?",
+    "a": "<p>Yes, sports physiotherapy is safe for all age groups, from children to seniors. However, the approach to treatment varies based on the individual’s age, physical condition, and specific needs.</p>"
+   }
+  ]
+ },
+ "our-services/sports-specific-training": {
+  "title": "Sports Specific Training",
+  "seoTitle": "Sports Specific Training - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Sports Specific Training"
+   },
+   {
+    "t": "p",
+    "x": "At Threads Physio, our Sports-Specific Training is tailored to meet the unique demands of your sport. Whether you’re a professional athlete or a recreational enthusiast, this program focuses on enhancing your strength, endurance, agility, and technique to maximize performance and minimize injury risk."
+   },
+   {
+    "t": "p",
+    "x": "By analyzing your sport-specific movements and goals, our experts design personalized training regimens that optimize your physical abilities and help you achieve peak performance. Train smarter, play harder, and reach your full potential with Threads Physio’s dedicated sports training solutions."
+   },
+   {
+    "t": "h2",
+    "x": "Our Sports-Specific Training Includes:"
+   },
+   {
+    "t": "li",
+    "x": "Performance Analysis"
+   },
+   {
+    "t": "li",
+    "x": "Strength and Conditioning"
+   },
+   {
+    "t": "li",
+    "x": "Agility and Speed Training"
+   },
+   {
+    "t": "li",
+    "x": "Flexibility and Mobility Exercises"
+   },
+   {
+    "t": "li",
+    "x": "Injury Prevention Strategies"
+   },
+   {
+    "t": "li",
+    "x": "Sport-Specific Skills Development"
+   },
+   {
+    "t": "li",
+    "x": "Recovery and Rehabilitation Support"
+   },
+   {
+    "t": "li",
+    "x": "Mental Conditioning"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/other-two.webp",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "x": "Our Expertise"
+   },
+   {
+    "t": "p",
+    "x": "Acl rehabilitation in non-operative conditions and post operative Acl conditions."
+   },
+   {
+    "t": "h3",
+    "x": "Our Mission"
+   },
+   {
+    "t": "p",
+    "x": "We focused to restore ROM (Range of Motion), stability , strength and function of the knee."
+   },
+   {
+    "t": "h3",
+    "x": "Our Goal"
+   },
+   {
+    "t": "p",
+    "x": "The goal after Acl injury or surgery is to return the patient to a normal complete level of function, their required physical activities and specific sports."
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "programmes": {
+  "title": "Programmes",
+  "seoTitle": "Programmes - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Programmes"
+   },
+   {
+    "t": "h2",
+    "x": "Return to Sports after ACL Surgery"
+   },
+   {
+    "t": "p",
+    "x": "ACL surgery is when doctors fix a part of your knee called the anterior cruciate ligament, often known as the ACL."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/MUSCLE-2x.png",
+    "alt": "Return to Sports after Shoulder Surgery"
+   },
+   {
+    "t": "h2",
+    "x": "Return to Sports after Shoulder Surgery"
+   },
+   {
+    "t": "p",
+    "x": "Shoulder surgery is when doctors perform an operation on your shoulder to fix different problems or injuries."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/MUSCLE-2x.png",
+    "alt": "Fit to Run"
+   },
+   {
+    "t": "h2",
+    "x": "Fit to Run"
+   },
+   {
+    "t": "p",
+    "x": "Our \"Fit to Run\" program for athletes is designed to help individuals prepare for running activities, prevent injuries, and enhance overall performance."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/LEG-SLING-2x.png",
+    "alt": "High Performance Programme"
+   },
+   {
+    "t": "h2",
+    "x": "High Performance Programme"
+   },
+   {
+    "t": "p",
+    "x": "Our High-Performance Program for athletes is a comprehensive approach aimed at optimizing athletic performance, preventing injuries, and facilitating a holistic approach to peak physical condition."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/ACUPUNTURE-2x.png",
+    "alt": "Corporate Wellness Programme"
+   },
+   {
+    "t": "h2",
+    "x": "Corporate Wellness Programme"
+   },
+   {
+    "t": "p",
+    "x": "Our corporate wellness program focuses on promoting the health, well-being, and physical fitness of employees."
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "programmes/corporate-wellness-programme": {
+  "title": "Corporate Wellness Programme",
+  "seoTitle": "Corporate Wellness Programme - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Corporate Wellness Programme"
+   },
+   {
+    "t": "h2",
+    "x": "Our corporate wellness program focuses on promoting the health, well-being, and physical fitness of employees. Here's an outline of what we can do within a corporate wellness program:"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/2.webp",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "Health Assessments"
+   },
+   {
+    "t": "p",
+    "x": "- Conduct individual health assessments to identify employees' physical health status, including musculoskeletal health, posture, and flexibility. - Use assessments to personalize wellness interventions."
+   },
+   {
+    "t": "h2",
+    "x": "Ergonomics and Workplace Wellness"
+   },
+   {
+    "t": "p",
+    "x": "- Provide ergonomic assessments of workstations to optimize employee comfort and reduce the risk of musculoskeletal issues. - Conduct workshops on proper desk ergonomics, stretching exercises, and maintaining good posture."
+   },
+   {
+    "t": "h2",
+    "x": "Fitness Classes and Exercise Programs"
+   },
+   {
+    "t": "p",
+    "x": "- Offer on-site fitness classes catering to various fitness levels and preferences. - Design exercise programs focusing on strength, flexibility, and cardiovascular fitness."
+   },
+   {
+    "t": "h2",
+    "x": "Injury Prevention Workshops:"
+   },
+   {
+    "t": "p",
+    "x": "- Conduct workshops on injury prevention techniques, emphasizing proper lifting, stretching, and exercises to reduce the risk of workplace injuries. - Provide resources for self-care and quick exercises during breaks."
+   },
+   {
+    "t": "h2",
+    "x": "Stress Management Programs"
+   },
+   {
+    "t": "p",
+    "x": "- Introduce stress management programs that include relaxation techniques, mindfulness sessions, and breathing exercises. - Educate employees on the impact of stress on physical health and ways to cope."
+   },
+   {
+    "t": "h2",
+    "x": "Health Education Sessions"
+   },
+   {
+    "t": "p",
+    "x": "- Conduct educational sessions on various health topics, including nutrition, sleep hygiene, and the importance of physical activity. - Provide resources and tips for maintaining a healthy lifestyle."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/9.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/3.webp",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "On-Site Health Screenings"
+   },
+   {
+    "t": "p",
+    "x": "- Organize on-site health screenings, including blood pressure checks, posture assessments, and BMI measurements. - Offer individualized feedback and recommendations based on screening results."
+   },
+   {
+    "t": "h2",
+    "x": "Remote Work Wellness Support"
+   },
+   {
+    "t": "p",
+    "x": "- Extend wellness programs to remote workers, offering virtual fitness classes, ergonomic assessments for home workstations, and mental health resources."
+   },
+   {
+    "t": "h2",
+    "x": "Rehabilitation Services"
+   },
+   {
+    "t": "p",
+    "x": "- Provide on-site or virtual access to physiotherapy services for employees recovering from injuries or managing chronic conditions. - Develop rehabilitation programs tailored to individual needs."
+   },
+   {
+    "t": "h2",
+    "x": "Customized Exercise Programs"
+   },
+   {
+    "t": "p",
+    "x": "- Design personalized exercise programs for employees with specific health concerns or goals. - Include exercises that can be easily integrated into the workday."
+   },
+   {
+    "t": "h2",
+    "x": "Regular Follow-ups and Progress Monitoring"
+   },
+   {
+    "t": "p",
+    "x": "- Conduct regular check-ins with employees to monitor progress and address any concerns. - Use data analytics, surveys, or feedback sessions to evaluate the impact of the wellness program."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/8.webp",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "programmes/fit-to-run": {
+  "title": "Fit to Run",
+  "seoTitle": "Fit to Run - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Fit to Run"
+   },
+   {
+    "t": "h2",
+    "x": "Our \"Fit to Run\" program for athletes is designed to help individuals prepare for running activities, prevent injuries, and enhance overall performance."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/1.webp",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "Here's an overview of what we do in this program"
+   },
+   {
+    "t": "h2",
+    "x": "Initial Assessment"
+   },
+   {
+    "t": "p",
+    "x": "- We conduct a thorough assessment of the athlete's current physical condition, including joint flexibility, muscle strength, and overall fitness. - We identify any existing injuries, weaknesses, or imbalances that may affect running performance."
+   },
+   {
+    "t": "h2",
+    "x": "Individualized Exercise Plans"
+   },
+   {
+    "t": "p",
+    "x": "- Based on the assessment, we create personalized exercise plans tailored to the athlete's specific needs and goals. - Exercises focus on improving core strength, lower limb stability, and flexibility, addressing areas crucial for running."
+   },
+   {
+    "t": "h2",
+    "x": "Running Technique Analysis"
+   },
+   {
+    "t": "p",
+    "x": "- We analyse the athlete's running technique to identify any biomechanical issues or inefficiencies. - Corrections and drills are introduced to optimize running form and reduce the risk of injuries."
+   },
+   {
+    "t": "h2",
+    "x": "Gradual Conditioning"
+   },
+   {
+    "t": "p",
+    "x": "- We design progressive training programs to gradually build endurance and cardiovascular fitness, considering the athlete's current fitness level. - This helps prevent overtraining and minimizes the risk of overuse injuries."
+   },
+   {
+    "t": "h2",
+    "x": "Injury Prevention Strategies"
+   },
+   {
+    "t": "p",
+    "x": "- We educate athletes on proper warm-up and cool-down routines to reduce the risk of injury. - Emphasis is placed on incorporating stretching, mobility exercises, and foam rolling into the routine."
+   },
+   {
+    "t": "h2",
+    "x": "Strength Training"
+   },
+   {
+    "t": "p",
+    "x": "- We integrate strength training exercises to enhance muscle power, stability, and overall running performance. - Targeted muscle groups include those crucial for running, such as the quadriceps, hamstrings, glutes, and core muscles."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/8.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/2.webp",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "Flexibility and Mobility Training"
+   },
+   {
+    "t": "p",
+    "x": "- We incorporate exercises to improve joint flexibility and overall mobility, addressing areas that may become tight due to running."
+   },
+   {
+    "t": "h2",
+    "x": "Rehabilitation and Recovery"
+   },
+   {
+    "t": "p",
+    "x": "- If the athlete has a history of injuries or is recovering from an injury, we include rehabilitation exercises to support the healing process. - Strategies for post-run recovery, including stretching and self-myofascial release, are emphasized."
+   },
+   {
+    "t": "h2",
+    "x": "Monitoring and Adjustments"
+   },
+   {
+    "t": "p",
+    "x": "- We regularly monitor the athlete's progress and make adjustments to the program as needed. - Feedback and communication with the athlete help tailor the program to their evolving needs and goals."
+   },
+   {
+    "t": "h2",
+    "x": "Educational Support"
+   },
+   {
+    "t": "p",
+    "x": "- We provide education on proper footwear, running surfaces, hydration, and nutrition to support overall well-being and performance."
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "programmes/high-performance-program": {
+  "title": "High Performance Program",
+  "seoTitle": "High Performance Program - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "High Performance Programme"
+   },
+   {
+    "t": "h2",
+    "x": "Our High-Performance Program for athletes is a comprehensive approach aimed at optimizing athletic performance, preventing injuries, and facilitating a holistic approach to peak physical condition. Here's an overview of what we do in this program:"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/4.webp",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "Initial Assessment and Goal Setting"
+   },
+   {
+    "t": "p",
+    "x": "- Conduct a thorough assessment of the athlete's current physical condition, injury history, and specific performance goals. - Collaboratively establish short-term and long-term goals for the high-performance program."
+   },
+   {
+    "t": "h2",
+    "x": "Biomechanical Analysis"
+   },
+   {
+    "t": "p",
+    "x": "- Analyse the athlete's biomechanics, including movement patterns, joint mechanics, and muscle imbalances. - Identify areas for improvement to enhance overall performance and reduce the risk of injuries."
+   },
+   {
+    "t": "h2",
+    "x": "Individualized Exercise Prescription"
+   },
+   {
+    "t": "p",
+    "x": "- Develop a personalized exercise regimen focusing on strength, power, agility, and flexibility. - Address specific muscle groups and movement patterns relevant to the athlete's sport."
+   },
+   {
+    "t": "h2",
+    "x": "Strength and Conditioning"
+   },
+   {
+    "t": "p",
+    "x": "- Implement advanced strength and conditioning exercises to enhance overall athletic performance. - Periodize training programs to include phases of intensity, volume, and recovery to optimize physical adaptation."
+   },
+   {
+    "t": "h2",
+    "x": "Speed and Agility Training"
+   },
+   {
+    "t": "p",
+    "x": "- Incorporate drills and exercises to improve speed, agility, and sport-specific movements. - Enhance the athlete's ability to react quickly and move efficiently on the field or court."
+   },
+   {
+    "t": "h2",
+    "x": "Injury Prevention Strategies"
+   },
+   {
+    "t": "p",
+    "x": "- Design targeted injury prevention programs, focusing on areas prone to injuries in the athlete's specific sport. - Implement neuromuscular training to improve stability and reduce the risk of non-contact injuries."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/7.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/5.webp",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "Rehabilitation Integration"
+   },
+   {
+    "t": "p",
+    "x": "- If applicable, incorporate rehabilitation exercises for athletes recovering from injuries, ensuring a safe return to high-performance training. - Collaborate with other healthcare professionals as needed."
+   },
+   {
+    "t": "h2",
+    "x": "Nutrition and Hydration Guidance"
+   },
+   {
+    "t": "p",
+    "x": "- Provide nutritional guidance to support optimal performance and recovery. - Emphasize proper hydration strategies to maintain peak physical condition."
+   },
+   {
+    "t": "h2",
+    "x": "Monitoring and Data Analysis"
+   },
+   {
+    "t": "p",
+    "x": "- Utilize performance metrics, data analytics, and wearable technology to monitor training loads, recovery, and overall performance. - Make data-informed decisions to adjust and refine the training program."
+   },
+   {
+    "t": "h2",
+    "x": "Mental Conditioning"
+   },
+   {
+    "t": "p",
+    "x": "- Collaborate with sports psychologists to integrate mental conditioning techniques, enhancing focus, resilience, and mental toughness. - Address stress management and mental well-being as part of the holistic approach to high performance."
+   },
+   {
+    "t": "h2",
+    "x": "Periodic Reassessment and Adjustments"
+   },
+   {
+    "t": "p",
+    "x": "- Regularly reassess the athlete's progress against established goals. - Modify the program based on performance feedback, changes in goals, or any emerging factors affecting the athlete's condition."
+   },
+   {
+    "t": "h2",
+    "x": "Education and Empowerment:"
+   },
+   {
+    "t": "p",
+    "x": "- Educate athletes on the importance of self-care, recovery strategies, and lifestyle factors influencing performance. - Empower athletes with the knowledge and skills to take an active role in their high-performance journey."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/6.webp",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "programmes/return-to-sports-after-acl-surgery": {
+  "title": "Return to Sports after ACL Surgery",
+  "seoTitle": "Return to Sports after ACL Surgery - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Return to Sports after ACL Surgery"
+   },
+   {
+    "t": "h2",
+    "x": "What is it?"
+   },
+   {
+    "t": "p",
+    "x": "ACL surgery is when doctors fix a part of your knee called the anterior cruciate ligament, often known as the ACL. This ligament helps keep your knee stable, but it can get injured during sports or other activities. If the ACL tears, it might not heal by itself, so doctors may recommend surgery."
+   },
+   {
+    "t": "p",
+    "x": "During the surgery, the doctor replaces the torn ACL with a new piece. This piece can come from your own body (like a part of your patellar tendon or hamstring) or from a donor. The surgery is done using small cuts and a tiny camera to guide the doctor."
+   },
+   {
+    "t": "p",
+    "x": "After the surgery, you’ll need to do physical therapy and exercises to help your knee recover. Not everyone with an ACL injury needs surgery, as it depends on your age, how active you are, and the extent of the injury. Your doctor will help you decide the best treatment for you."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/1.webp",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "Right After Surgery"
+   },
+   {
+    "t": "p",
+    "x": "- Take it easy: Protect your knee and avoid putting too much weight on it. - Use ice and keep it up: Ice packs and keeping your leg up can help with swelling."
+   },
+   {
+    "t": "h2",
+    "x": "Weeks 1-2: Start Moving"
+   },
+   {
+    "t": "p",
+    "x": "- Move your knee: Start with easy exercises to make your knee more flexible. - Use your muscles: Do exercises to make the muscles around your knee stronger. - Gradually start putting weight on your leg: Listen to your physical therapist about how much weight is okay."
+   },
+   {
+    "t": "h2",
+    "x": "Weeks 3-6: Get Stronger"
+   },
+   {
+    "t": "p",
+    "x": "- More exercises: Do harder exercises to make your leg muscles even stronger. - Work on balance: Practice standing on one leg to improve your balance. - Start cycling: Ride a bike to help with your fitness."
+   },
+   {
+    "t": "h2",
+    "x": "Weeks 6-12: Train for Your Activity"
+   },
+   {
+    "t": "p",
+    "x": "- Sporty exercises: Do exercises that are like the movements you do in your sport or activity. - Practice agility: Work on moving quickly and changing direction. - Begin running slowly: Start running bit by bit."
+   },
+   {
+    "t": "h2",
+    "x": "Months 3-6: Step It Up"
+   },
+   {
+    "t": "p",
+    "x": "- Get even stronger: Keep adding more weight to your exercises. - Jumping exercises: Start doing exercises where you jump and land safely. - Practice your sport's moves: Work on specific skills for your sport."
+   },
+   {
+    "t": "h2",
+    "x": "Months 6 and Beyond: Go Back to Your Sport"
+   },
+   {
+    "t": "p",
+    "x": "- Check if you're ready: Do tests to see if you're ready to go back to your sport. - Gradually start playing again: Take it slow when going back to playing your sport. - Keep checking in: Make sure to see your doctor or therapist regularly to make sure everything is going well."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/10.webp",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "x": "What is our focus?"
+   },
+   {
+    "t": "p",
+    "x": "Post ACL surgery, our focus is on guiding and supporting patients through a comprehensive rehabilitation process. Our primary objectives include"
+   },
+   {
+    "t": "li",
+    "x": "Optimizing Recovery: We aim to facilitate a smooth and effective recovery after ACL surgery, ensuring that patients regain strength, flexibility, and stability in the knee."
+   },
+   {
+    "t": "li",
+    "x": "Restoring Range of Motion: Through targeted exercises and hands-on therapy, we work to restore the normal range of motion in the knee joint, promoting flexibility and reducing stiffness."
+   },
+   {
+    "t": "li",
+    "x": "Strengthening Muscles: We design personalized exercise programs to strengthen the muscles around the knee, with a specific focus on the quadriceps, hamstrings, and calf muscles. This helps improve overall knee stability and function."
+   },
+   {
+    "t": "li",
+    "x": "Enhancing Proprioception and Balance: We incorporate exercises that enhance proprioception (awareness of body position) and balance, crucial for preventing future injuries and improving overall joint control."
+   },
+   {
+    "t": "li",
+    "x": "Gradual Weight-Bearing Progression: We guide patients in a step-by-step process of gradually increasing weight-bearing on the surgically repaired knee, ensuring a safe and progressive return to normal activities."
+   },
+   {
+    "t": "li",
+    "x": "Sport-Specific Training: For those looking to return to sports or specific activities, we tailor rehabilitation to include sport-specific exercises and drills, simulating movements and demands associated with the particular sport."
+   },
+   {
+    "t": "li",
+    "x": "Pain Management: We address any post-surgical pain or discomfort through appropriate modalities and techniques, ensuring that pain is managed effectively to support the rehabilitation process."
+   },
+   {
+    "t": "li",
+    "x": "Patient Education: We provide ongoing education to patients, helping them understand the importance of adherence to the rehabilitation program, home exercises, and the gradual reintroduction of activities."
+   },
+   {
+    "t": "li",
+    "x": "Monitoring Progress: Regular assessments allow us to monitor progress, make necessary adjustments to the rehabilitation plan, and ensure that patients are advancing toward their functional goals."
+   },
+   {
+    "t": "h3",
+    "x": "How can we help?"
+   },
+   {
+    "t": "p",
+    "x": "After ACL surgery, we help you get better. We have some important goals:"
+   },
+   {
+    "t": "li",
+    "x": "Make You Feel Better: We want to make sure you recover well after your knee surgery, so you can move and feel good again."
+   },
+   {
+    "t": "li",
+    "x": "Move Your Knee Like Before: We’ll help you bend and move your knee like you used to, making sure it’s not stiff."
+   },
+   {
+    "t": "li",
+    "x": "Make Your Leg Muscles Stronger: We’ll give you exercises to make the muscles around your knee strong, like your thigh and calf muscles. This helps your knee be steady and work better."
+   },
+   {
+    "t": "li",
+    "x": "Help You Balance: We’ll do exercises to help you stand on one leg and keep your balance. This is important for preventing more injuries and making your knee work well."
+   },
+   {
+    "t": "li",
+    "x": "Start Putting Weight on Your Leg Slowly: We’ll guide you in gradually putting more weight on your knee as it gets better, so you can walk and move around comfortably."
+   },
+   {
+    "t": "li",
+    "x": "Get Ready for Sports: If you want to go back to playing sports, we’ll give you exercises that are like the ones you do in your sport. We’ll help you get strong and ready for it."
+   },
+   {
+    "t": "li",
+    "x": "Make Sure You’re Not in Pain: If you feel any pain, we’ll help manage it with the right exercises and techniques, so you can heal well."
+   },
+   {
+    "t": "li",
+    "x": "Teach You What to Do at Home: We’ll show you exercises and things to do at home to help your knee get better faster."
+   },
+   {
+    "t": "li",
+    "x": "Check How You’re Doing: We’ll keep an eye on how you’re doing, make sure you’re improving, and adjust the plan if needed."
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "programmes/return-to-sports-after-shoulder-surgery": {
+  "title": "Return to Sports after Shoulder Surgery",
+  "seoTitle": "Return to Sports after Shoulder Surgery - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Return to Sports after Shoulder Surgery"
+   },
+   {
+    "t": "h2",
+    "x": "What is it?"
+   },
+   {
+    "t": "p",
+    "x": "Shoulder surgery is when doctors perform an operation on your shoulder to fix different problems or injuries. The shoulder is a complex joint that can have issues with bones, muscles, tendons, and more."
+   },
+   {
+    "t": "p",
+    "x": "Here are some common reasons for shoulder surgery"
+   },
+   {
+    "t": "li",
+    "x": "Fixing Torn Muscles (Rotator Cuff): Sometimes, the muscles and tendons in the shoulder tear, and surgery can help fix them."
+   },
+   {
+    "t": "li",
+    "x": "Repairing Cartilage Tears (Labral Tear): If the cartilage around the shoulder socket gets injured, surgery can be done to fix it."
+   },
+   {
+    "t": "li",
+    "x": "Checking and Fixing Issues with a Small Camera (Arthroscopy): Doctors might use a tiny camera to see inside the shoulder and fix problems like inflammation or instability."
+   },
+   {
+    "t": "li",
+    "x": "Replacing a Damaged Shoulder Joint (Arthroplasty): If the shoulder joint is damaged or not working well, surgery can replace it with artificial parts."
+   },
+   {
+    "t": "li",
+    "x": "Fixing Broken Bones in the Shoulder: If the collarbone or upper arm bone is broken, surgery can be done to put them back together."
+   },
+   {
+    "t": "li",
+    "x": "Stabilizing the AC Joint: If the joint connecting the collarbone to the shoulder blade is not stable, surgery can help."
+   },
+   {
+    "t": "li",
+    "x": "Relieving Shoulder Impingement: Surgery can help if there’s pressure on the structures inside the shoulder."
+   },
+   {
+    "t": "li",
+    "x": "Repairing Biceps Tendon Injuries: If the tendon connecting the biceps muscle to the shoulder is injured, surgery can fix it."
+   },
+   {
+    "t": "p",
+    "x": "After shoulder surgery, you may need to do physical therapy to make your shoulder strong and flexible again. The decision to have shoulder surgery is usually made with a doctor based on how bad the problem is and your overall health."
+   },
+   {
+    "t": "h2",
+    "x": "What is its program?"
+   },
+   {
+    "t": "p",
+    "x": "After you have shoulder surgery, there’s a plan to help your shoulder get better. Here’s how it would be:"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/5.webp",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "Right After Surgery:"
+   },
+   {
+    "t": "p",
+    "x": "- Take care of pain: Use medicines and techniques to help with any pain. - Protect your shoulder: Be careful not to strain or move it too much. - Use ice and lift your arm up: Put ice on your shoulder and keep your arm elevated to reduce swelling."
+   },
+   {
+    "t": "h2",
+    "x": "1-2 Weeks After Surgery: Moving Your Arm:"
+   },
+   {
+    "t": "p",
+    "x": "- Get help if needed: If it's hard to move, a therapist might gently help your arm. - Do easy exercises: Start with simple movements to make your shoulder move better."
+   },
+   {
+    "t": "h2",
+    "x": "2-6 Weeks After Surgery: Making Your Muscles Strong:"
+   },
+   {
+    "t": "p",
+    "x": "- Do exercises that get harder: Make your muscles around the shoulder stronger. - Use special exercises: Work on specific exercises for muscles like the rotator cuff."
+   },
+   {
+    "t": "h2",
+    "x": "6-12 Weeks After Surgery: Doing Everyday Things:"
+   },
+   {
+    "t": "p",
+    "x": "- Practice regular movements: Work on reaching, lifting, and doing everyday activities. - Start doing more activities: Slowly go back to doing things that use your shoulder."
+   },
+   {
+    "t": "h2",
+    "x": "3 Months and Beyond: Getting Stronger:"
+   },
+   {
+    "t": "p",
+    "x": "- Special exercises for your activities: If you play sports or have specific things you want to do, work on exercises for those. - Keep making your muscles stronger: Don't stop doing exercises to keep your shoulder strong."
+   },
+   {
+    "t": "h2",
+    "x": "Learning About Your Shoulder:"
+   },
+   {
+    "t": "p",
+    "x": "- Know how it heals: Understand how your shoulder is getting better. - Do exercises at home: Your doctor or therapist will give you exercises to do at home."
+   },
+   {
+    "t": "h2",
+    "x": "Returning to Normal Activities:"
+   },
+   {
+    "t": "p",
+    "x": "- Ask your doctor: When you can go back to regular activities depends on you and the type of surgery you had."
+   },
+   {
+    "t": "h2",
+    "x": "Checking with the Doctor or Therapist:"
+   },
+   {
+    "t": "p",
+    "x": "- See how you're doing: Regular visits to make sure your shoulder is getting better. - Changing the plan if needed: If something is not right, the plan can be changed."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/9.webp",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "x": "What is our focus?"
+   },
+   {
+    "t": "p",
+    "x": "Post shoulder surgery, our primary focus is on guiding and supporting patients through a comprehensive rehabilitation program. Our goals are to ensure a successful recovery, restore shoulder function, and enhance overall well-being. Here’s how we focus on helping individuals after shoulder surgery:"
+   },
+   {
+    "t": "h2",
+    "x": "Pain Management:"
+   },
+   {
+    "t": "p",
+    "x": "- We address post-surgery pain through appropriate techniques and exercises. - We monitor pain levels and adjust the rehabilitation plan accordingly."
+   },
+   {
+    "t": "h2",
+    "x": "Early Mobility and Range of Motion:"
+   },
+   {
+    "t": "p",
+    "x": "- We work on gentle exercises to improve shoulder movement and prevent stiffness. - We may use passive exercises to assist with mobility, especially in the early stages."
+   },
+   {
+    "t": "h2",
+    "x": "Muscle Strengthening:"
+   },
+   {
+    "t": "p",
+    "x": "- We design and implement targeted exercises to strengthen the muscles around the shoulder. - Progressive strengthening programs are tailored to the individual's needs and stage of recovery."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/10.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/07/3.webp",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "Functional Activities:"
+   },
+   {
+    "t": "p",
+    "x": "- We focus on everyday movements, such as reaching, lifting, and performing daily tasks. - Gradual reintroduction of functional activities helps patients regain confidence in using their shoulder."
+   },
+   {
+    "t": "h2",
+    "x": "Balance and Stability Training:"
+   },
+   {
+    "t": "p",
+    "x": "- We incorporate exercises to improve balance and stability, ensuring better joint control. - Stability training is especially important to prevent re-injury or complications."
+   },
+   {
+    "t": "h2",
+    "x": "Gradual Return to Normal Activities:"
+   },
+   {
+    "t": "p",
+    "x": "- We guide patients through a phased approach to reintroduce regular activities and prevent overloading the shoulder. - Sport-specific exercises may be included for those aiming to return to athletic pursuits."
+   },
+   {
+    "t": "h2",
+    "x": "Patient Education:"
+   },
+   {
+    "t": "p",
+    "x": "- We provide information on the healing process, expected timelines, and the importance of following the rehabilitation plan. - Home exercise programs are explained to empower patients to contribute to their recovery."
+   },
+   {
+    "t": "h2",
+    "x": "Monitoring and Adjustments:"
+   },
+   {
+    "t": "p",
+    "x": "- We conduct regular assessments to monitor progress and identify any challenges. - The rehabilitation plan is adjusted based on individual responses and goals."
+   },
+   {
+    "t": "h2",
+    "x": "Preventing Complications:"
+   },
+   {
+    "t": "p",
+    "x": "- We actively work to prevent complications such as stiffness, muscle imbalances, or joint instability. - Early intervention helps address issues before they become more significant."
+   },
+   {
+    "t": "h2",
+    "x": "Continuous Support and Motivation:"
+   },
+   {
+    "t": "p",
+    "x": "- We offer ongoing support, encouragement, and motivation to keep patients engaged in their recovery. - Emotional well-being is considered a crucial aspect of the rehabilitation process."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/physiotherapist-doing-manual-treatment.jpg",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "x": "How can we help?"
+   },
+   {
+    "t": "p",
+    "x": "After shoulder surgery, our main goal is to help you get better. Here’s what we focus on:"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/physiotherapist-doing-manual-treatment.jpg",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "Make You Feel Better:"
+   },
+   {
+    "t": "p",
+    "x": "- We help manage any pain you might have after surgery. - We use exercises to keep your shoulder moving and prevent it from feeling stiff."
+   },
+   {
+    "t": "h2",
+    "x": "Make Your Muscles Strong:"
+   },
+   {
+    "t": "p",
+    "x": "- We give you special exercises to make the muscles around your shoulder strong. - These exercises will start easy and get a bit harder as you get stronger."
+   },
+   {
+    "t": "h2",
+    "x": "Do Everyday Activities:"
+   },
+   {
+    "t": "p",
+    "x": "- We work on movements you do every day, like reaching and lifting things. - Gradually, we help you go back to doing regular activities without straining your shoulder."
+   },
+   {
+    "t": "h2",
+    "x": "Balance and Stability:"
+   },
+   {
+    "t": "p",
+    "x": "- We do exercises to help you stand steady and keep your shoulder stable. - This is important to make sure your shoulder doesn't get injured again."
+   },
+   {
+    "t": "h2",
+    "x": "Go Back to Doing Normal Things:"
+   },
+   {
+    "t": "p",
+    "x": "- We guide you in slowly going back to your usual activities without putting too much stress on your shoulder. - If you play sports, we'll give you exercises to get you ready to play again."
+   },
+   {
+    "t": "h2",
+    "x": "Learn About Your Shoulder:"
+   },
+   {
+    "t": "p",
+    "x": "- We'll tell you how your shoulder is getting better. - You'll have exercises to do at home to help your shoulder heal faster."
+   },
+   {
+    "t": "h2",
+    "x": "Check How You're Doing:"
+   },
+   {
+    "t": "p",
+    "x": "- We'll see you regularly to see how your shoulder is getting better. - If needed, we'll change the plan to make sure everything is going well."
+   },
+   {
+    "t": "h2",
+    "x": "Support and Encouragement:"
+   },
+   {
+    "t": "p",
+    "x": "- We're here to help and cheer you on throughout your recovery. - Feeling good emotionally is also important for getting better."
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/physiotherapist-doing-manual-treatment.jpg",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "shoulder-pain-treatment-in-gurgaon": {
+  "title": "Shoulder Pain Treatment in Gurgaon - Expert Physiotherapy",
+  "seoTitle": "Shoulder Pain Treatment in Gurgaon - Expert Physiotherapy",
+  "description": "Shoulder pain slowing you down? Threads Physio in Gurgaon offers personalized physiotherapy to help you move freely again.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Physiotherapy for Shoulder Pain and Stiffness in Gurgaon"
+   },
+   {
+    "t": "p",
+    "x": "Struggling with shoulder pain that’s limiting your daily activities? At Threads Physio in Gurgaon, we specialize in personalized physiotherapy for shoulder pain caused by injuries, frozen shoulder, muscle strain, or poor posture. Whether it’s difficulty lifting your arm, sleeping on your side, or reaching overhead, our expert team helps you regain mobility, reduce inflammation, and get lasting relief through evidence-based care. Book your session today and take the first step toward pain-free movement."
+   },
+   {
+    "t": "h3",
+    "x": "2000+ Patients Treated"
+   },
+   {
+    "t": "h3",
+    "x": "3000 Sq Ft Dedicated Rehabilitation Area"
+   },
+   {
+    "t": "h3",
+    "x": "Internationally Trained Physiotherapist"
+   },
+   {
+    "t": "h2",
+    "x": "Shoulder Pain Issues We Help You Recover From"
+   },
+   {
+    "t": "li",
+    "x": "Frozen Shoulder (Adhesive Capsulitis)"
+   },
+   {
+    "t": "li",
+    "x": "Rotator Cuff Injuries or Tears"
+   },
+   {
+    "t": "li",
+    "x": "Shoulder Impingement Syndrome"
+   },
+   {
+    "t": "li",
+    "x": "Shoulder Muscle Strain or Overuse Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Posture-Related Shoulder Tightness or Pain"
+   },
+   {
+    "t": "li",
+    "x": "Nerve Compression Causing Shoulder Discomfort"
+   },
+   {
+    "t": "li",
+    "x": "Tendinitis or Bursitis of the Shoulder"
+   },
+   {
+    "t": "li",
+    "x": "Post-Surgical Shoulder Rehabilitation"
+   },
+   {
+    "t": "li",
+    "x": "Shoulder Dislocation or Instability"
+   },
+   {
+    "t": "li",
+    "x": "Arthritis-Related Shoulder Pain"
+   },
+   {
+    "t": "li",
+    "x": "Sports Injuries Affecting the Shoulder"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/home-image-one.webp",
+    "alt": "ACL treatment"
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/06/home-image-two.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "/wp/2024/05/yellow-Ellipse.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "x": "Signs Your Shoulder Pain Needs Physiotherapy"
+   },
+   {
+    "t": "h3",
+    "x": "Persistent Shoulder Pain"
+   },
+   {
+    "t": "p",
+    "x": "If your shoulder pain lasts more than a few days and doesn't improve with rest or home remedies, it may indicate an underlying issue that needs attention."
+   },
+   {
+    "t": "h3",
+    "x": "Limited Range of Motion"
+   },
+   {
+    "t": "p",
+    "x": "Difficulty lifting your arm overhead or reaching behind your back could signal joint stiffness or a soft tissue injury that physiotherapy can help correct."
+   },
+   {
+    "t": "h3",
+    "x": "Pain While Sleeping on One Side"
+   },
+   {
+    "t": "p",
+    "x": "Shoulder pain that disrupts sleep, especially when lying on the affected side, is often linked to inflammation, frozen shoulder, or rotator cuff issues."
+   },
+   {
+    "t": "h3",
+    "x": "Shoulder Weakness"
+   },
+   {
+    "t": "p",
+    "x": "If your arm feels weak or unstable during regular movements, it may be due to muscle strain, nerve involvement, or tendon injuries."
+   },
+   {
+    "t": "h3",
+    "x": "Clicking or Popping Sounds"
+   },
+   {
+    "t": "p",
+    "x": "Audible sounds during shoulder movement could indicate impingement, labral tears, or instability — all of which require assessment."
+   },
+   {
+    "t": "h3",
+    "x": "Swelling or Tenderness"
+   },
+   {
+    "t": "p",
+    "x": "Inflammation, visible swelling, or tenderness around the shoulder joint may be signs of bursitis, tendinitis, or internal joint irritation."
+   },
+   {
+    "t": "h3",
+    "x": "Pain After Injury or Fall"
+   },
+   {
+    "t": "p",
+    "x": "If your shoulder pain started after a trauma, fall, or sudden movement, early physiotherapy is key to proper healing and avoiding long-term stiffness."
+   },
+   {
+    "t": "h3",
+    "x": "Tingling or Numbness in Arm"
+   },
+   {
+    "t": "p",
+    "x": "A dull ache or tingling sensation traveling down the arm could suggest nerve compression and should not be ignored."
+   },
+   {
+    "t": "h3",
+    "x": "Pain Worsens with Activity"
+   },
+   {
+    "t": "p",
+    "x": "If your shoulder pain increases with movement or worsens during sports or lifting, professional evaluation is recommended to prevent further strain."
+   },
+   {
+    "t": "h2",
+    "x": "Our Treatment Approach for Shoulder Pain"
+   },
+   {
+    "t": "h3",
+    "x": "Detailed Assessment & Diagnosis"
+   },
+   {
+    "t": "p",
+    "x": "We begin with a thorough clinical evaluation of your shoulder mobility, posture, muscle strength, and pain triggers to identify the root cause of your discomfort."
+   },
+   {
+    "t": "h3",
+    "x": "Personalized Physiotherapy Plan"
+   },
+   {
+    "t": "p",
+    "x": "Each treatment plan is tailored based on your condition—whether it’s frozen shoulder, rotator cuff injury, or impingement—ensuring focused and effective recovery."
+   },
+   {
+    "t": "h3",
+    "x": "Pain Relief Techniques"
+   },
+   {
+    "t": "p",
+    "x": "We use proven modalities like cryotherapy, ultrasound therapy, TENS, and manual therapy to reduce inflammation and provide immediate pain relief."
+   },
+   {
+    "t": "h3",
+    "x": "Manual Therapy & Mobilization"
+   },
+   {
+    "t": "p",
+    "x": "Gentle joint mobilization and soft tissue release techniques improve shoulder joint mechanics, reduce stiffness, and restore full range of motion."
+   },
+   {
+    "t": "h3",
+    "x": "Therapeutic Exercises"
+   },
+   {
+    "t": "p",
+    "x": "Strengthening and stretching exercises are prescribed to restore stability, muscle balance, and long-term shoulder function."
+   },
+   {
+    "t": "h3",
+    "x": "Posture & Ergonomic Correction"
+   },
+   {
+    "t": "p",
+    "x": "Poor posture is a common cause of shoulder pain. We guide you on proper ergonomics and daily movement patterns to prevent recurring discomfort."
+   },
+   {
+    "t": "h3",
+    "x": "Sports-Specific Rehabilitation"
+   },
+   {
+    "t": "p",
+    "x": "For athletes and active individuals, we incorporate sport-specific movements and neuromuscular re-education to safely return you to peak performance."
+   },
+   {
+    "t": "h3",
+    "x": "Home Care Guidance"
+   },
+   {
+    "t": "p",
+    "x": "We provide self-care routines and do-at-home exercises to help you continue healing between sessions and avoid future flare-ups."
+   },
+   {
+    "t": "h2",
+    "x": "Why Choose Threads Physio?"
+   },
+   {
+    "t": "li",
+    "x": "Led by Experts in Sports & Joint Care – Our clinic is guided by Dr. Manu Bora, a renowned orthopaedic surgeon and sports injury expert, ensuring each treatment plan is medically sound and results-driven."
+   },
+   {
+    "t": "li",
+    "x": "Specialized in Shoulder Pain & Sports Injuries – From frozen shoulder to rotator cuff injuries, we have extensive experience in diagnosing and treating a wide range of shoulder-related conditions."
+   },
+   {
+    "t": "li",
+    "x": "Personalized 1-on-1 Care – At Threads Physio, you receive dedicated one-on-one sessions with certified physiotherapists who track your progress and adapt your care accordingly."
+   },
+   {
+    "t": "li",
+    "x": "Advanced Treatment Techniques – We combine evidence-based physiotherapy with modern techniques like dry needling, cupping, K-taping, and electrotherapy for faster and more lasting relief."
+   },
+   {
+    "t": "li",
+    "x": "Focus on Root Cause, Not Just Symptoms – Our goal is not just to relieve pain, but to identify and address the root cause—ensuring long-term recovery and preventing recurrence."
+   },
+   {
+    "t": "li",
+    "x": "Comfortable Clinic Environment – Our Gurgaon facility is well-equipped, hygienic, and designed to help you feel comfortable throughout your recovery journey."
+   },
+   {
+    "t": "li",
+    "x": "Flexible Appointment Slots – We value your time and offer convenient appointment options including early mornings, evenings, and weekend slots."
+   },
+   {
+    "t": "p",
+    "x": "Patient Feedback"
+   }
+  ],
+  "faqTitle": "FAQs Related to Shoulder Pain Treatment",
+  "faqs": []
+ },
+ "testimonials": {
+  "title": "Testimonials",
+  "seoTitle": "Testimonials - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Testimonials"
+   },
+   {
+    "t": "h2",
+    "x": "Patient Stories"
+   },
+   {
+    "t": "img",
+    "src": "/wp/https://img.youtube.com/vi/gbSHuZ3iYOQ/maxresdefault.jpg",
+    "alt": "बिना सर्जरी के ठीक हुआ घुटने का दर्द PRP इंजेक्शन से || #prp #prpinjection #drmanubora"
+   },
+   {
+    "t": "h4",
+    "x": "बिना सर्जरी के ठीक हुआ घुटने का दर्द PRP इंजेक्शन से || #prp #prpinjection #drmanubora"
+   },
+   {
+    "t": "img",
+    "src": "/wp/https://img.youtube.com/vi/xKPQBlDicm4/maxresdefault.jpg",
+    "alt": "Weight Lifter  की Meniscus Surgery के  7  दिन बाद Recovery ! || #aclrecovery #threadsphysio"
+   },
+   {
+    "t": "h4",
+    "x": "Weight Lifter की Meniscus Surgery के 7 दिन बाद Recovery ! || #aclrecovery #threadsphysio"
+   },
+   {
+    "t": "img",
+    "src": "/wp/https://img.youtube.com/vi/qkylk1VIpCo/maxresdefault.jpg",
+    "alt": "उत्तर प्रदेश के कबड्डी प्लेयर AMAN की ACL Surgery के बाद Fast Recovery ! #aclrecovery #kabaddi"
+   },
+   {
+    "t": "h4",
+    "x": "उत्तर प्रदेश के कबड्डी प्लेयर AMAN की ACL Surgery के बाद Fast Recovery ! #aclrecovery #kabaddi"
+   },
+   {
+    "t": "img",
+    "src": "/wp/https://img.youtube.com/vi/bUWTwMQ1m5o/maxresdefault.jpg",
+    "alt": "Threads Physio ने बिना ACL Surgery के एक नेशनल प्लेयर की गेम में करायी वापसी #threadsphysio"
+   },
+   {
+    "t": "h4",
+    "x": "Threads Physio ने बिना ACL Surgery के एक नेशनल प्लेयर की गेम में करायी वापसी #threadsphysio"
+   },
+   {
+    "t": "img",
+    "src": "/wp/https://img.youtube.com/vi/TOx2waX2sJU/maxresdefault.jpg",
+    "alt": "दिल्ली के विदित नेशनल फुटबॉलर ACL, Meniscus ﻿Internal Brace Surgery के बाद फ़ास्ट Recovery!"
+   },
+   {
+    "t": "h4",
+    "x": "दिल्ली के विदित नेशनल फुटबॉलर ACL, Meniscus ﻿Internal Brace Surgery के बाद फ़ास्ट Recovery!"
+   },
+   {
+    "t": "h2",
+    "x": "We Weave Injury Free Champions"
+   },
+   {
+    "t": "li",
+    "x": "State of Art Facilities"
+   },
+   {
+    "t": "li",
+    "x": "Comprehensive Treatment for All Sports Related Injuries"
+   },
+   {
+    "t": "li",
+    "x": "Team of Renowned Orthopaedic Surgeons and Sports Medicine"
+   },
+   {
+    "t": "li",
+    "x": "Integrated and Patient Centric"
+   },
+   {
+    "t": "li",
+    "x": "Effortless and Expedited Appointments"
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "privacy-policy": {
+  "title": "Privacy Policy",
+  "seoTitle": "Privacy Policy - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h2",
+    "x": "Privacy Policy"
+   },
+   {
+    "t": "h2",
+    "x": "Who we are"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: Our website address is: http://localhost/wordwp."
+   },
+   {
+    "t": "h2",
+    "x": "Comments"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection."
+   },
+   {
+    "t": "p",
+    "x": "An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment."
+   },
+   {
+    "t": "h2",
+    "x": "Media"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website."
+   },
+   {
+    "t": "h2",
+    "x": "Cookies"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year."
+   },
+   {
+    "t": "p",
+    "x": "If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser."
+   },
+   {
+    "t": "p",
+    "x": "When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed."
+   },
+   {
+    "t": "p",
+    "x": "If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day."
+   },
+   {
+    "t": "h2",
+    "x": "Embedded content from other websites"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website."
+   },
+   {
+    "t": "p",
+    "x": "These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website."
+   },
+   {
+    "t": "h2",
+    "x": "Who we share your data with"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: If you request a password reset, your IP address will be included in the reset email."
+   },
+   {
+    "t": "h2",
+    "x": "How long we retain your data"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue."
+   },
+   {
+    "t": "p",
+    "x": "For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information."
+   },
+   {
+    "t": "h2",
+    "x": "What rights you have over your data"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes."
+   },
+   {
+    "t": "h2",
+    "x": "Where your data is sent"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: Visitor comments may be checked through an automated spam detection service."
+   },
+   {
+    "t": "li",
+    "x": "Our Services"
+   },
+   {
+    "t": "li",
+    "x": "Programmes"
+   },
+   {
+    "t": "li",
+    "x": "Conditions"
+   },
+   {
+    "t": "li",
+    "x": "Meet Our Specialist"
+   },
+   {
+    "t": "li",
+    "x": "Contact Us"
+   },
+   {
+    "t": "li",
+    "x": "Refund Policy"
+   },
+   {
+    "t": "li",
+    "x": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "x": "Terms & Conditions"
+   },
+   {
+    "t": "li",
+    "x": "F, 10/4, Golf Course Rd, DLF Phase 1, Sector 27, Gurugram, Haryana 122001"
+   },
+   {
+    "t": "li",
+    "x": "+91-9310138022"
+   },
+   {
+    "t": "li",
+    "x": "threadsphysio@gmail.com"
+   },
+   {
+    "t": "p",
+    "x": "Get relief from pain , body fatigue & injury visit us today or book an appointment."
+   },
+   {
+    "t": "p",
+    "x": "Copyright © 2025 Threads Physio. All Right Reserved."
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "refund-policy": {
+  "title": "Refund Policy",
+  "seoTitle": "Refund Policy - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h2",
+    "x": "Refund Policy"
+   },
+   {
+    "t": "h2",
+    "x": "Who we are"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: Our website address is: http://localhost/wordwp."
+   },
+   {
+    "t": "h2",
+    "x": "Comments"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection."
+   },
+   {
+    "t": "p",
+    "x": "An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment."
+   },
+   {
+    "t": "h2",
+    "x": "Media"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website."
+   },
+   {
+    "t": "h2",
+    "x": "Cookies"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year."
+   },
+   {
+    "t": "p",
+    "x": "If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser."
+   },
+   {
+    "t": "p",
+    "x": "When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed."
+   },
+   {
+    "t": "p",
+    "x": "If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day."
+   },
+   {
+    "t": "h2",
+    "x": "Embedded content from other websites"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website."
+   },
+   {
+    "t": "p",
+    "x": "These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website."
+   },
+   {
+    "t": "h2",
+    "x": "Who we share your data with"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: If you request a password reset, your IP address will be included in the reset email."
+   },
+   {
+    "t": "h2",
+    "x": "How long we retain your data"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue."
+   },
+   {
+    "t": "p",
+    "x": "For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information."
+   },
+   {
+    "t": "h2",
+    "x": "What rights you have over your data"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes."
+   },
+   {
+    "t": "h2",
+    "x": "Where your data is sent"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: Visitor comments may be checked through an automated spam detection service."
+   },
+   {
+    "t": "li",
+    "x": "Our Services"
+   },
+   {
+    "t": "li",
+    "x": "Programmes"
+   },
+   {
+    "t": "li",
+    "x": "Conditions"
+   },
+   {
+    "t": "li",
+    "x": "Meet Our Specialist"
+   },
+   {
+    "t": "li",
+    "x": "Contact Us"
+   },
+   {
+    "t": "li",
+    "x": "Refund Policy"
+   },
+   {
+    "t": "li",
+    "x": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "x": "Terms & Conditions"
+   },
+   {
+    "t": "li",
+    "x": "F, 10/4, Golf Course Rd, DLF Phase 1, Sector 27, Gurugram, Haryana 122001"
+   },
+   {
+    "t": "li",
+    "x": "+91-9310138022"
+   },
+   {
+    "t": "li",
+    "x": "threadsphysio@gmail.com"
+   },
+   {
+    "t": "p",
+    "x": "Get relief from pain , body fatigue & injury visit us today or book an appointment."
+   },
+   {
+    "t": "p",
+    "x": "Copyright © 2025 Threads Physio. All Right Reserved."
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ },
+ "terms-conditions": {
+  "title": "Terms & Conditions",
+  "seoTitle": "Terms & Conditions - Threads Physio",
+  "description": "",
+  "blocks": [
+   {
+    "t": "h2",
+    "x": "Terms & Conditions"
+   },
+   {
+    "t": "h2",
+    "x": "Who we are"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: Our website address is: http://localhost/wordwp."
+   },
+   {
+    "t": "h2",
+    "x": "Comments"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection."
+   },
+   {
+    "t": "p",
+    "x": "An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment."
+   },
+   {
+    "t": "h2",
+    "x": "Media"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website."
+   },
+   {
+    "t": "h2",
+    "x": "Cookies"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year."
+   },
+   {
+    "t": "p",
+    "x": "If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser."
+   },
+   {
+    "t": "p",
+    "x": "When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed."
+   },
+   {
+    "t": "p",
+    "x": "If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day."
+   },
+   {
+    "t": "h2",
+    "x": "Embedded content from other websites"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website."
+   },
+   {
+    "t": "p",
+    "x": "These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website."
+   },
+   {
+    "t": "h2",
+    "x": "Who we share your data with"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: If you request a password reset, your IP address will be included in the reset email."
+   },
+   {
+    "t": "h2",
+    "x": "How long we retain your data"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue."
+   },
+   {
+    "t": "p",
+    "x": "For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information."
+   },
+   {
+    "t": "h2",
+    "x": "What rights you have over your data"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes."
+   },
+   {
+    "t": "h2",
+    "x": "Where your data is sent"
+   },
+   {
+    "t": "p",
+    "x": "Suggested text: Visitor comments may be checked through an automated spam detection service."
+   },
+   {
+    "t": "li",
+    "x": "Our Services"
+   },
+   {
+    "t": "li",
+    "x": "Programmes"
+   },
+   {
+    "t": "li",
+    "x": "Conditions"
+   },
+   {
+    "t": "li",
+    "x": "Meet Our Specialist"
+   },
+   {
+    "t": "li",
+    "x": "Contact Us"
+   },
+   {
+    "t": "li",
+    "x": "Refund Policy"
+   },
+   {
+    "t": "li",
+    "x": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "x": "Terms & Conditions"
+   },
+   {
+    "t": "li",
+    "x": "F, 10/4, Golf Course Rd, DLF Phase 1, Sector 27, Gurugram, Haryana 122001"
+   },
+   {
+    "t": "li",
+    "x": "+91-9310138022"
+   },
+   {
+    "t": "li",
+    "x": "threadsphysio@gmail.com"
+   },
+   {
+    "t": "p",
+    "x": "Get relief from pain , body fatigue & injury visit us today or book an appointment."
+   },
+   {
+    "t": "p",
+    "x": "Copyright © 2025 Threads Physio. All Right Reserved."
+   }
+  ],
+  "faqTitle": "",
+  "faqs": []
+ }
+}
