@@ -41,7 +41,7 @@ export default function ContactPage() {
             <p>For Medical Camps, Seminars and Webinars mail us your proposal at</p>
             <p><a className="accent" href={`mailto:${SITE.proposalEmail}`}><strong>{SITE.proposalEmail}</strong></a></p>
             <p>Follow us on:</p>
-            <div style={{ display: "flex", gap: 10 }}>
+            <div style={{ display: "flex", flexWrap: "wrap", gap: 10 }}>
               <a className="btn btn-outline" href={SITE.social.linkedin} target="_blank" rel="noreferrer">Linkedin</a>
               <a className="btn btn-outline" href={SITE.social.instagram} target="_blank" rel="noreferrer">Instagram</a>
               <a className="btn btn-outline" href={SITE.social.youtube} target="_blank" rel="noreferrer">Youtube</a>
