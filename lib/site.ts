@@ -80,3 +80,5 @@ export const STEPS = [
   "Confirm The Diagnosis and Treatment Plan",
   "Get Back To Sports & Running In 3 Months",
 ];
+
+export const SITE_URL = "https://www.threadsphysio.com";

@@ -1,6 +1,8 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { PAGES } from "@/lib/pages";
+import { POSTS, POST_LIST, type Post } from "@/lib/posts";
+import { SITE, SITE_URL } from "@/lib/site";
 import { buildLayout, type Layout, type Section } from "@/lib/sections";
 import Counters from "@/components/Counters";
 import Reviews from "@/components/Reviews";
@@ -11,13 +13,20 @@ const LEGAL = ["privacy-policy", "refund-policy", "terms-conditions", "blogs"];
 const FALLBACK_IMG = "/wp/2024/06/home-image-three.webp";
 
 export function generateStaticParams() {
-  return Object.keys(PAGES).filter((k) => k !== "contact-us").map((k) => ({ slug: k.split("/") }));
+  return [...Object.keys(PAGES).filter((k) => k !== "contact-us"), ...Object.keys(POSTS)].map((k) => ({ slug: k.split("/") }));
 }
 export const dynamicParams = false;
 
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
-  const p = PAGES[(await params).slug.join("/")];
-  return p ? { title: p.seoTitle, description: p.description } : {};
+  const key = (await params).slug.join("/");
+  const canonical = `/${key}/`;
+  const post = POSTS[key];
+  if (post) return {
+    title: post.seoTitle, description: post.description, alternates: { canonical },
+    openGraph: { type: "article", title: post.seoTitle, description: post.description, url: canonical, siteName: SITE.name, publishedTime: post.date, modifiedTime: post.modified, images: post.image ? [post.image] : undefined },
+  };
+  const p = PAGES[key];
+  return p ? { title: p.seoTitle, description: p.description, alternates: { canonical }, openGraph: { title: p.seoTitle, description: p.description, url: canonical, siteName: SITE.name } } : {};
 }
 
 function Paras({ s }: { s: Section }) { return <>{s.paras.map((p, i) => <p key={i}>{p}</p>)}</>; }
@@ -102,8 +111,10 @@ function Render({ l, idx }: { l: Layout; idx: number }) {
 export default async function InnerPage({ params }: Params) {
   const { slug } = await params;
   const key = slug.join("/");
+  if (POSTS[key]) return <PostView slug={key} post={POSTS[key]} />;
   const page = PAGES[key];
   if (!page) notFound();
+  if (key === "blogs") return <BlogIndex />;
   const { title, layout } = buildLayout(page.blocks);
   const isLegal = LEGAL.includes(key);
 
@@ -124,6 +135,60 @@ export default async function InnerPage({ params }: Params) {
           </div>
         </section>
       )}
+    </>
+  );
+}
+
+const fmt = (d: string) => new Date(d).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" });
+
+function PostView({ slug, post }: { slug: string; post: Post }) {
+  const jsonLd = {
+    "@context": "https://schema.org", "@type": "BlogPosting",
+    headline: post.title, description: post.description, datePublished: post.date, dateModified: post.modified,
+    image: post.image ? `${SITE_URL}${post.image}` : undefined,
+    mainEntityOfPage: `${SITE_URL}/${slug}/`,
+    author: { "@type": "Organization", name: SITE.name, url: SITE_URL },
+    publisher: { "@type": "Organization", name: SITE.name, logo: { "@type": "ImageObject", url: `${SITE_URL}/wp/2024/06/favicon.png` } },
+  };
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <section className="ip-banner"><div className="container"><h1>{post.title}</h1><p className="post-meta">{fmt(post.date)}{post.categories.length ? ` · ${post.categories.join(", ")}` : ""}</p></div></section>
+      <article className="ip-sec"><div className="container content-blocks post-body">
+        {post.image && !post.blocks.some((b) => b.src === post.image) && <img src={post.image} alt={post.imageAlt || post.title} />}
+        <PostBlocks blocks={post.blocks} />
+      </div></article>
+    </>
+  );
+}
+
+function PostBlocks({ blocks }: { blocks: Post["blocks"] }) {
+  const out: React.ReactNode[] = [];
+  for (let i = 0; i < blocks.length; i++) {
+    const b = blocks[i];
+    if (b.t === "li") {
+      const items: string[] = [];
+      while (i < blocks.length && blocks[i].t === "li") items.push(blocks[i++].x || "");
+      i--; out.push(<ul key={i}>{items.map((x, j) => <li key={j}>{x}</li>)}</ul>);
+    } else if (b.t === "img") out.push(<img key={i} src={b.src} alt={b.alt || ""} loading="lazy" />);
+    else if (b.t === "h1") out.push(<h2 key={i}>{b.x}</h2>);
+    else { const T = b.t; out.push(<T key={i}>{b.x}</T>); }
+  }
+  return <>{out}</>;
+}
+
+function BlogIndex() {
+  return (
+    <>
+      <section className="ip-banner"><div className="container"><h1>Blogs</h1></div></section>
+      <section className="ip-sec"><div className="container blog-grid">
+        {POST_LIST.map((p) => (
+          <a key={p.slug} href={`/${p.slug}/`} className="blog-card">
+            {p.image && <img src={p.image} alt={p.imageAlt || p.title} loading="lazy" />}
+            <div><span className="post-meta">{fmt(p.date)}</span><h3>{p.title}</h3><p>{p.excerpt.slice(0, 140)}{p.excerpt.length > 140 ? "…" : ""}</p></div>
+          </a>
+        ))}
+      </div></section>
     </>
   );
 }
