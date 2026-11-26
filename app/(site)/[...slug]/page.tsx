@@ -1,32 +1,80 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import Link from "next/link";
 import { PAGES } from "@/lib/pages";
-import { POSTS, POST_LIST, type Post } from "@/lib/posts";
-import { SITE, SITE_URL } from "@/lib/site";
+import { getBlogPostBySlug, getSitemapBlogPosts, type SanityBlogPost } from "@/lib/sanity";
+import { SITE } from "@/lib/site";
 import { buildLayout, type Layout, type Section } from "@/lib/sections";
+import {
+  buildPageMetadata,
+  buildPageSchemas,
+  DIRECTIONS_SECTION_KEYS,
+  type BreadcrumbItem,
+} from "@/lib/seo";
 import Counters from "@/components/Counters";
 import Reviews from "@/components/Reviews";
 import Steps from "@/components/Steps";
+import AppointmentForm from "@/components/AppointmentForm";
+import PortableTextRenderer from "@/components/PortableTextRenderer";
+import JsonLd from "@/components/JsonLd";
+
+export const revalidate = 60;
+export const dynamicParams = true;
 
 type Params = { params: Promise<{ slug: string[] }> };
-const LEGAL = ["privacy-policy", "refund-policy", "terms-conditions", "blogs"];
+const LEGAL = ["privacy-policy", "refund-policy", "terms-conditions"];
+const DEDICATED_ROUTES = new Set([
+  "contact-us",
+  "blogs",
+  "stem-cell-therapy",
+  "heal-your-acl-landing-page",
+  "physiotherapist-in-gurgaon",
+]);
 const FALLBACK_IMG = "/wp/2024/06/home-image-three.webp";
 
-export function generateStaticParams() {
-  return [...Object.keys(PAGES).filter((k) => k !== "contact-us"), ...Object.keys(POSTS)].map((k) => ({ slug: k.split("/") }));
+export async function generateStaticParams() {
+  const pageParams = Object.keys(PAGES)
+    .filter((k) => !DEDICATED_ROUTES.has(k))
+    .map((k) => ({ slug: k.split("/") }));
+  const sanityPosts = await getSitemapBlogPosts();
+  const postParams = sanityPosts
+    .map((p) => p.slug)
+    .filter((slug) => !PAGES[slug] && !DEDICATED_ROUTES.has(slug))
+    .map((slug) => ({ slug: slug.split("/") }));
+  return [...pageParams, ...postParams];
 }
-export const dynamicParams = false;
 
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
   const key = (await params).slug.join("/");
-  const canonical = `/${key}/`;
-  const post = POSTS[key];
-  if (post) return {
-    title: post.seoTitle, description: post.description, alternates: { canonical },
-    openGraph: { type: "article", title: post.seoTitle, description: post.description, url: canonical, siteName: SITE.name, publishedTime: post.date, modifiedTime: post.modified, images: post.image ? [post.image] : undefined },
-  };
-  const p = PAGES[key];
-  return p ? { title: p.seoTitle, description: p.description, alternates: { canonical }, openGraph: { title: p.seoTitle, description: p.description, url: canonical, siteName: SITE.name } } : {};
+  const page = PAGES[key];
+  if (page) {
+    const firstImg = page.blocks.find((b) => b.t === "img")?.src;
+    return buildPageMetadata({
+      title: page.seoTitle,
+      description: page.description,
+      path: `/${key}/`,
+      ogImage: firstImg,
+    });
+  }
+
+  const post = await getBlogPostBySlug(key);
+  if (post) {
+    const meta = buildPageMetadata({
+      title: post.seo?.metaTitle || post.title,
+      description: post.seo?.metaDescription || post.excerpt,
+      path: `/${key}/`,
+      ogImage: post.seo?.ogImage || post.coverImage?.url,
+      ogType: "article",
+      publishedTime: post.publishedAt,
+      modifiedTime: post.updatedAt,
+    });
+    if (post.seo?.noIndex) {
+      meta.robots = { index: false, follow: false };
+    }
+    return meta;
+  }
+
+  return {};
 }
 
 function Paras({ s }: { s: Section }) { return <>{s.paras.map((p, i) => <p key={i}>{p}</p>)}</>; }
@@ -35,19 +83,19 @@ function Lines({ items }: { items: string[] }) { return <ul className="line-list
 function Render({ l, idx }: { l: Layout; idx: number }) {
   switch (l.kind) {
     case "intro": {
-      const { s } = l; const img = s.imgs[0]?.src;
+      const { s } = l; const img = s.imgs[0];
       return (
         <section className="ip-sec">
-          <div className={`container ${img ? "two-col" : ""}`}>
+          <div className={`container ${img?.src ? "two-col" : ""}`}>
             <div className="ip-text">
               {s.heading && <h2 className="accent">{s.heading}</h2>}
               <Paras s={s} />
-              {s.sub && <h4 className="ip-sub">{s.sub}</h4>}
+              {s.sub && <h2 className="ip-sub">{s.sub}</h2>}
               {s.list.length > 0 && <Lines items={s.list} />}
             </div>
-            {img && <div className="ip-img"><img src={img} alt="" /></div>}
+            {img?.src && <div className="ip-img"><img src={img.src} alt={img.alt || ""} /></div>}
           </div>
-          {s.imgs.length > 1 && <div className="container img-row">{s.imgs.slice(1).map((m) => <img key={String(m.src)} src={m.src} alt="" />)}</div>}
+          {s.imgs.length > 1 && <div className="container img-row">{s.imgs.slice(1).map((m) => <img key={String(m.src)} src={m.src} alt={m.alt || ""} />)}</div>}
         </section>
       );
     }
@@ -68,10 +116,11 @@ function Render({ l, idx }: { l: Layout; idx: number }) {
     }
     case "why": {
       const { s } = l;
+      const firstImg = s.imgs[0];
       return (
         <section className="ip-sec">
           <div className="container two-col">
-            <img src={s.imgs[0]?.src || FALLBACK_IMG} alt="" className="why-img" />
+            <img src={firstImg?.src || FALLBACK_IMG} alt={firstImg?.alt || ""} className="why-img" />
             <div>
               {s.eyebrow && <span className="eyebrow-y">{s.eyebrow}</span>}
               <h2 className="accent">{s.heading}</h2>
@@ -100,7 +149,7 @@ function Render({ l, idx }: { l: Layout; idx: number }) {
             <Paras s={s} />
             {s.list.length > 0 && <Lines items={s.list} />}
             {s.cards.map((c) => <div key={c.t}><h3>{c.t}</h3>{c.p.map((p, i) => <p key={i}>{p}</p>)}</div>)}
-            {s.imgs.length > 0 && <div className="img-row">{s.imgs.map((m) => <img key={String(m.src) + idx} src={m.src} alt="" />)}</div>}
+            {s.imgs.length > 0 && <div className="img-row">{s.imgs.map((m) => <img key={String(m.src) + idx} src={m.src} alt={m.alt || ""} />)}</div>}
           </div>
         </section>
       );
@@ -108,87 +157,169 @@ function Render({ l, idx }: { l: Layout; idx: number }) {
   }
 }
 
-export default async function InnerPage({ params }: Params) {
-  const { slug } = await params;
-  const key = slug.join("/");
-  if (POSTS[key]) return <PostView slug={key} post={POSTS[key]} />;
-  const page = PAGES[key];
-  if (!page) notFound();
-  if (key === "blogs") return <BlogIndex />;
-  const { title, layout } = buildLayout(page.blocks);
-  const isLegal = LEGAL.includes(key);
+function buildBreadcrumbsForKey(key: string, label: string): BreadcrumbItem[] {
+  const crumbs: BreadcrumbItem[] = [{ name: "Home", path: "/" }];
+  const parts = key.split("/");
+  if (parts.length > 1) {
+    const parentKey = parts.slice(0, -1).join("/");
+    const parentPage = PAGES[parentKey];
+    if (parentPage) {
+      crumbs.push({ name: parentPage.title, path: `/${parentKey}/` });
+    }
+  }
+  crumbs.push({ name: label, path: `/${key}/` });
+  return crumbs;
+}
+
+const fmt = (d?: string) =>
+  d ? new Date(d).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" }) : "";
+
+function PostView({ slug, post }: { slug: string; post: SanityBlogPost }) {
+  const mappedFaqs = post.faqs?.map((f) => ({ q: f.question, a: `<p>${f.answer}</p>` }));
+  const postSchemas = buildPageSchemas({
+    path: `/${slug}/`,
+    title: post.seo?.metaTitle || post.title,
+    description: post.seo?.metaDescription || post.excerpt,
+    primaryImage: post.seo?.ogImage || post.coverImage?.url,
+    breadcrumbs: [
+      { name: "Home", path: "/" },
+      { name: "Blogs", path: "/blogs/" },
+      { name: post.title, path: `/${slug}/` },
+    ],
+    faqs: mappedFaqs,
+    article: {
+      headline: post.title,
+      datePublished: post.publishedAt,
+      dateModified: post.updatedAt,
+      authorName: post.author || SITE.name,
+      categories: post.category ? [post.category] : undefined,
+    },
+  });
+
+  const metaParts = [
+    fmt(post.publishedAt),
+    post.category,
+    post.readingTime ? `${post.readingTime} min read` : "",
+  ].filter(Boolean);
 
   return (
     <>
-      <section className="ip-banner"><div className="container"><h1>{title || page.title}</h1></div></section>
-      {layout.map((l, i) => <Render key={i} l={l} idx={i} />)}
-      {!isLegal && (<><Counters /><Reviews /><Steps /></>)}
-      {page.faqs?.length > 0 && (
+      <JsonLd data={postSchemas} />
+      <section className="ip-banner">
+        <div className="container">
+          <h1>{post.title}</h1>
+          {metaParts.length > 0 && <p className="post-meta">{metaParts.join(" · ")}</p>}
+          <div className="crumbs" style={{ marginTop: 8 }}>
+            <Link href="/">Home</Link> / <Link href="/blogs/">Blogs</Link> /{" "}
+            <span className="accent">{post.title}</span>
+          </div>
+        </div>
+      </section>
+      <article className="ip-sec post-article">
+        <div className="container content-blocks post-body">
+          {post.coverImage?.url &&
+            !post.body?.some((b) => b._type === "image" && b.url === post.coverImage?.url) && (
+              <img
+                src={post.coverImage.url}
+                alt={post.coverImage.alt || post.title}
+                className="post-hero-img"
+              />
+            )}
+          {post.body?.length ? <PortableTextRenderer value={post.body} /> : null}
+
+          {post.references && post.references.length > 0 && (
+            <div className="post-refs" style={{ marginTop: 36, paddingTop: 20, borderTop: "1px solid #eaeaea" }}>
+              <h3>Clinical References</h3>
+              <ol>
+                {post.references.map((ref, i) => (
+                  <li key={i}>
+                    <a href={ref.url} target="_blank" rel="noopener noreferrer">
+                      {ref.title}
+                    </a>
+                    {ref.publisher ? ` — ${ref.publisher}` : ""}
+                  </li>
+                ))}
+              </ol>
+            </div>
+          )}
+        </div>
+      </article>
+      {post.faqs && post.faqs.length > 0 && (
         <section className="section faq-sec">
           <div className="container">
-            <h2 className="center accent">{page.faqTitle}</h2>
+            <h2 className="center accent">Frequently Asked Questions</h2>
             <div className="faq">
-              {page.faqs.map((f) => (
-                <details key={f.q}><summary>{f.q}</summary><div className="ans" dangerouslySetInnerHTML={{ __html: f.a }} /></details>
+              {post.faqs.map((f) => (
+                <details key={f.question}>
+                  <summary>{f.question}</summary>
+                  <div className="ans">
+                    <p>{f.answer}</p>
+                  </div>
+                </details>
               ))}
             </div>
           </div>
         </section>
       )}
+      <Steps />
     </>
   );
 }
 
-const fmt = (d: string) => new Date(d).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" });
+export default async function InnerPage({ params }: Params) {
+  const { slug } = await params;
+  const key = slug.join("/");
 
-function PostView({ slug, post }: { slug: string; post: Post }) {
-  const jsonLd = {
-    "@context": "https://schema.org", "@type": "BlogPosting",
-    headline: post.title, description: post.description, datePublished: post.date, dateModified: post.modified,
-    image: post.image ? `${SITE_URL}${post.image}` : undefined,
-    mainEntityOfPage: `${SITE_URL}/${slug}/`,
-    author: { "@type": "Organization", name: SITE.name, url: SITE_URL },
-    publisher: { "@type": "Organization", name: SITE.name, logo: { "@type": "ImageObject", url: `${SITE_URL}/wp/2024/06/favicon.png` } },
-  };
-  return (
-    <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-      <section className="ip-banner"><div className="container"><h1>{post.title}</h1><p className="post-meta">{fmt(post.date)}{post.categories.length ? ` · ${post.categories.join(", ")}` : ""}</p></div></section>
-      <article className="ip-sec"><div className="container content-blocks post-body">
-        {post.image && !post.blocks.some((b) => b.src === post.image) && <img src={post.image} alt={post.imageAlt || post.title} />}
-        <PostBlocks blocks={post.blocks} />
-      </div></article>
-    </>
-  );
-}
+  const page = PAGES[key];
+  if (page) {
+    const { title, layout } = buildLayout(page.blocks);
+    const isLegal = LEGAL.includes(key);
+    const hasDirections = DIRECTIONS_SECTION_KEYS.has(key);
+    const firstImg = page.blocks.find((b) => b.t === "img")?.src;
+    const schemas = buildPageSchemas({
+      path: `/${key}/`,
+      title: page.seoTitle,
+      description: page.description,
+      primaryImage: firstImg,
+      breadcrumbs: buildBreadcrumbsForKey(key, page.title),
+      faqs: page.faqs,
+    });
 
-function PostBlocks({ blocks }: { blocks: Post["blocks"] }) {
-  const out: React.ReactNode[] = [];
-  for (let i = 0; i < blocks.length; i++) {
-    const b = blocks[i];
-    if (b.t === "li") {
-      const items: string[] = [];
-      while (i < blocks.length && blocks[i].t === "li") items.push(blocks[i++].x || "");
-      i--; out.push(<ul key={i}>{items.map((x, j) => <li key={j}>{x}</li>)}</ul>);
-    } else if (b.t === "img") out.push(<img key={i} src={b.src} alt={b.alt || ""} loading="lazy" />);
-    else if (b.t === "h1") out.push(<h2 key={i}>{b.x}</h2>);
-    else { const T = b.t; out.push(<T key={i}>{b.x}</T>); }
+    return (
+      <>
+        <JsonLd data={schemas} />
+        <section className="ip-banner"><div className="container"><h1>{title || page.title}</h1></div></section>
+        {layout.map((l, i) => <Render key={i} l={l} idx={i} />)}
+        {!isLegal && (<><Counters /><Reviews /><Steps /></>)}
+        {hasDirections && (
+          <section className="section">
+            <div className="container">
+              <h2 className="accent">Get Directions to Threads Physio Clinic</h2>
+              <div className="two-col" style={{ marginTop: 30, alignItems: "stretch" }}>
+                <div className="map-wrap"><iframe src={SITE.mapEmbed} loading="lazy" title="Threads Physio location" /></div>
+                <AppointmentForm formName={`${page.title} - Appointment`} compact />
+              </div>
+            </div>
+          </section>
+        )}
+        {page.faqs?.length > 0 && (
+          <section className="section faq-sec">
+            <div className="container">
+              <h2 className="center accent">{page.faqTitle}</h2>
+              <div className="faq">
+                {page.faqs.map((f) => (
+                  <details key={f.q}><summary>{f.q}</summary><div className="ans" dangerouslySetInnerHTML={{ __html: f.a }} /></details>
+                ))}
+              </div>
+            </div>
+          </section>
+        )}
+      </>
+    );
   }
-  return <>{out}</>;
-}
 
-function BlogIndex() {
-  return (
-    <>
-      <section className="ip-banner"><div className="container"><h1>Blogs</h1></div></section>
-      <section className="ip-sec"><div className="container blog-grid">
-        {POST_LIST.map((p) => (
-          <a key={p.slug} href={`/${p.slug}/`} className="blog-card">
-            {p.image && <img src={p.image} alt={p.imageAlt || p.title} loading="lazy" />}
-            <div><span className="post-meta">{fmt(p.date)}</span><h3>{p.title}</h3><p>{p.excerpt.slice(0, 140)}{p.excerpt.length > 140 ? "…" : ""}</p></div>
-          </a>
-        ))}
-      </div></section>
-    </>
-  );
+  const post = await getBlogPostBySlug(key);
+  if (post) return <PostView slug={key} post={post} />;
+
+  notFound();
 }

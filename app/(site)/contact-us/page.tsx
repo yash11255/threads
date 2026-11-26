@@ -1,12 +1,28 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import AppointmentForm from "@/components/AppointmentForm";
+import JsonLd from "@/components/JsonLd";
 import { SITE } from "@/lib/site";
+import { buildPageMetadata, buildPageSchemas } from "@/lib/seo";
 
-export const metadata = { title: "Contact Us - Threads Physio", description: "Contact Threads Physio, Golf Course Road, Gurugram. Call +91-9310138022." };
+export const metadata: Metadata = buildPageMetadata({
+  title: "Contact Us - Threads Physio",
+  path: "/contact-us/",
+});
 
 export default function ContactPage() {
+  const schemas = buildPageSchemas({
+    path: "/contact-us/",
+    title: "Contact Us - Threads Physio",
+    breadcrumbs: [
+      { name: "Home", path: "/" },
+      { name: "Contact Us", path: "/contact-us/" },
+    ],
+  });
+
   return (
     <>
+      <JsonLd data={schemas} />
       <section className="page-banner">
         <div className="container">
           <h1>Contact Us</h1>

@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import BodyMap from "@/components/BodyMap";
 import Counters from "@/components/Counters";
@@ -5,7 +6,21 @@ import Reviews from "@/components/Reviews";
 import Steps from "@/components/Steps";
 import FaqList from "@/components/FaqList";
 import AppointmentForm from "@/components/AppointmentForm";
+import JsonLd from "@/components/JsonLd";
 import { SITE } from "@/lib/site";
+import { buildPageMetadata, buildPageSchemas, DEFAULT_OG_IMAGE } from "@/lib/seo";
+
+const HOME_SEO_TITLE = "Best Physiotherapist in Gurgaon | Threads Physio by Dr. Manu Bora";
+const HOME_SEO_DESC =
+  "Looking for the best physiotherapy clinic in Gurgaon? Threads Physio offers expert care for pain, injuries, and recovery. Visit us now!";
+
+export const metadata: Metadata = buildPageMetadata({
+  title: HOME_SEO_TITLE,
+  description: HOME_SEO_DESC,
+  path: "/",
+  ogType: "website",
+  ogImage: DEFAULT_OG_IMAGE,
+});
 
 const TREATMENTS: { t: string; d: string; href?: string }[] = [
   { t: "ACL Surgery & Rehabilitation", d: "Recover stronger with expert-led ACL surgery and rehabilitation, ensuring faster healing and a safe return to an active lifestyle.", href: "/our-services/acl-surgery/" },
@@ -36,8 +51,18 @@ const WHY: [string, string][] = [
 ];
 
 export default function Home() {
+  const schemas = buildPageSchemas({
+    path: "/",
+    title: HOME_SEO_TITLE,
+    description: HOME_SEO_DESC,
+    primaryImage: DEFAULT_OG_IMAGE,
+    breadcrumbs: [{ name: "Home", path: "/" }],
+    includePhysiotherapySchema: true,
+  });
+
   return (
     <>
+      <JsonLd data={schemas} />
       <section className="hero">
         <div className="container">
           <div>
